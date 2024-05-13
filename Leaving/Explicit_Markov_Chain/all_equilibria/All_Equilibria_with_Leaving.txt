@@ -1,0 +1,9496 @@
+ALL EQUILIBRIA WITH UP TO 4 STATES 
+
+ ["D", "DD", "DDD", "dD", "dDD", "dL", "ddC", "ddCC", "ddD", "ddL", "ddcC", "dddC", "dddL"]
+Strategies 
+strategy 1 
+D 
+[2, 0, 0, 0] Strategy
+[1, 1, 1, 1] C
+[1, 1, 1, 1] D
+
+strategy 2 
+D 
+[2, 0, 0, 0] Strategy
+[2, 1, 1, 1] C
+[1, 1, 1, 1] D
+
+strategy 3 
+D 
+[2, 2, 0, 0] Strategy
+[2, 3, 1, 1] C
+[1, 1, 1, 1] D
+
+strategy 4 
+D 
+[2, 2, 0, 0] Strategy
+[2, 3, 1, 1] C
+[1, 2, 1, 1] D
+
+strategy 5 
+D 
+[2, 2, 0, 0] Strategy
+[2, 1, 1, 1] C
+[1, 3, 1, 1] D
+
+strategy 6 
+D 
+[2, 2, 0, 0] Strategy
+[2, 2, 1, 1] C
+[1, 3, 1, 1] D
+
+strategy 7 
+D 
+[2, 2, 0, 0] Strategy
+[2, 3, 1, 1] C
+[1, 3, 1, 1] D
+
+strategy 8 
+D 
+[2, 2, 1, 0] Strategy
+[2, 3, 1, 1] C
+[1, 1, 1, 1] D
+
+strategy 9 
+D 
+[2, 2, 1, 0] Strategy
+[2, 3, 1, 1] C
+[1, 2, 1, 1] D
+
+strategy 10 
+D 
+[2, 2, 1, 0] Strategy
+[2, 3, 1, 1] C
+[1, 4, 1, 1] D
+
+strategy 11 
+D 
+[2, 2, 2, 0] Strategy
+[2, 4, 1, 1] C
+[1, 3, 1, 1] D
+
+strategy 12 
+D 
+[2, 2, 2, 0] Strategy
+[2, 3, 1, 1] C
+[1, 4, 1, 1] D
+
+strategy 13 
+D 
+[2, 2, 1, 0] Strategy
+[2, 3, 2, 1] C
+[1, 1, 1, 1] D
+
+strategy 14 
+D 
+[2, 2, 1, 0] Strategy
+[2, 3, 2, 1] C
+[1, 2, 1, 1] D
+
+strategy 15 
+D 
+[2, 2, 1, 0] Strategy
+[2, 3, 2, 1] C
+[1, 4, 1, 1] D
+
+strategy 16 
+D 
+[2, 1, 2, 0] Strategy
+[3, 4, 2, 1] C
+[1, 1, 1, 1] D
+
+strategy 17 
+D 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[1, 1, 1, 1] D
+
+strategy 18 
+D 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[1, 2, 1, 1] D
+
+strategy 19 
+D 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[1, 3, 1, 1] D
+
+strategy 20 
+D 
+[2, 1, 2, 0] Strategy
+[3, 1, 2, 1] C
+[1, 4, 1, 1] D
+
+strategy 21 
+D 
+[2, 2, 2, 0] Strategy
+[3, 1, 2, 1] C
+[1, 4, 1, 1] D
+
+strategy 22 
+D 
+[2, 2, 2, 0] Strategy
+[3, 2, 2, 1] C
+[1, 4, 1, 1] D
+
+strategy 23 
+D 
+[2, 1, 2, 0] Strategy
+[3, 3, 2, 1] C
+[1, 4, 1, 1] D
+
+strategy 24 
+D 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[1, 4, 1, 1] D
+
+strategy 25 
+D 
+[2, 1, 2, 0] Strategy
+[3, 4, 2, 1] C
+[1, 4, 1, 1] D
+
+strategy 26 
+D 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[1, 4, 1, 1] D
+
+strategy 27 
+D 
+[2, 2, 2, 0] Strategy
+[2, 4, 3, 1] C
+[1, 3, 1, 1] D
+
+strategy 28 
+D 
+[2, 2, 2, 0] Strategy
+[2, 3, 3, 1] C
+[1, 4, 1, 1] D
+
+strategy 29 
+D 
+[2, 2, 1, 0] Strategy
+[2, 3, 4, 1] C
+[1, 2, 1, 1] D
+
+strategy 30 
+D 
+[2, 2, 1, 0] Strategy
+[2, 3, 4, 1] C
+[1, 4, 1, 1] D
+
+strategy 31 
+D 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[1, 2, 1, 1] D
+
+strategy 32 
+D 
+[2, 2, 2, 0] Strategy
+[2, 1, 4, 1] C
+[1, 3, 1, 1] D
+
+strategy 33 
+D 
+[2, 2, 2, 0] Strategy
+[2, 2, 4, 1] C
+[1, 3, 1, 1] D
+
+strategy 34 
+D 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[1, 3, 1, 1] D
+
+strategy 35 
+D 
+[2, 2, 2, 0] Strategy
+[2, 4, 4, 1] C
+[1, 3, 1, 1] D
+
+strategy 36 
+D 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[1, 4, 1, 1] D
+
+strategy 37 
+D 
+[2, 2, 2, 0] Strategy
+[3, 4, 1, 1] C
+[1, 2, 2, 1] D
+
+strategy 38 
+D 
+[2, 2, 2, 0] Strategy
+[2, 4, 1, 1] C
+[1, 3, 2, 1] D
+
+strategy 39 
+D 
+[2, 2, 2, 0] Strategy
+[3, 4, 1, 1] C
+[1, 3, 2, 1] D
+
+strategy 40 
+D 
+[2, 2, 2, 0] Strategy
+[3, 1, 1, 1] C
+[1, 4, 2, 1] D
+
+strategy 41 
+D 
+[2, 2, 2, 0] Strategy
+[3, 2, 1, 1] C
+[1, 4, 2, 1] D
+
+strategy 42 
+D 
+[2, 2, 2, 0] Strategy
+[2, 3, 1, 1] C
+[1, 4, 2, 1] D
+
+strategy 43 
+D 
+[2, 2, 2, 0] Strategy
+[3, 3, 1, 1] C
+[1, 4, 2, 1] D
+
+strategy 44 
+D 
+[2, 2, 2, 0] Strategy
+[3, 4, 1, 1] C
+[1, 4, 2, 1] D
+
+strategy 45 
+D 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[1, 2, 2, 1] D
+
+strategy 46 
+D 
+[2, 2, 2, 0] Strategy
+[2, 4, 2, 1] C
+[1, 3, 2, 1] D
+
+strategy 47 
+D 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[1, 3, 2, 1] D
+
+strategy 48 
+D 
+[2, 2, 2, 0] Strategy
+[3, 1, 2, 1] C
+[1, 4, 2, 1] D
+
+strategy 49 
+D 
+[2, 2, 2, 0] Strategy
+[3, 2, 2, 1] C
+[1, 4, 2, 1] D
+
+strategy 50 
+D 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[1, 4, 2, 1] D
+
+strategy 51 
+D 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[1, 4, 2, 1] D
+
+strategy 52 
+D 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[1, 4, 2, 1] D
+
+strategy 53 
+D 
+[2, 2, 2, 0] Strategy
+[3, 4, 3, 1] C
+[1, 2, 2, 1] D
+
+strategy 54 
+D 
+[2, 2, 2, 0] Strategy
+[2, 4, 3, 1] C
+[1, 3, 2, 1] D
+
+strategy 55 
+D 
+[2, 2, 2, 0] Strategy
+[3, 4, 3, 1] C
+[1, 3, 2, 1] D
+
+strategy 56 
+D 
+[2, 2, 2, 0] Strategy
+[3, 1, 3, 1] C
+[1, 4, 2, 1] D
+
+strategy 57 
+D 
+[2, 2, 2, 0] Strategy
+[3, 2, 3, 1] C
+[1, 4, 2, 1] D
+
+strategy 58 
+D 
+[2, 2, 2, 0] Strategy
+[2, 3, 3, 1] C
+[1, 4, 2, 1] D
+
+strategy 59 
+D 
+[2, 2, 2, 0] Strategy
+[3, 3, 3, 1] C
+[1, 4, 2, 1] D
+
+strategy 60 
+D 
+[2, 2, 2, 0] Strategy
+[3, 4, 3, 1] C
+[1, 4, 2, 1] D
+
+strategy 61 
+D 
+[2, 2, 2, 0] Strategy
+[3, 1, 4, 1] C
+[1, 2, 2, 1] D
+
+strategy 62 
+D 
+[2, 2, 2, 0] Strategy
+[3, 2, 4, 1] C
+[1, 2, 2, 1] D
+
+strategy 63 
+D 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[1, 2, 2, 1] D
+
+strategy 64 
+D 
+[2, 2, 2, 0] Strategy
+[3, 3, 4, 1] C
+[1, 2, 2, 1] D
+
+strategy 65 
+D 
+[2, 2, 2, 0] Strategy
+[2, 4, 4, 1] C
+[1, 3, 2, 1] D
+
+strategy 66 
+D 
+[2, 2, 2, 0] Strategy
+[3, 4, 4, 1] C
+[1, 3, 2, 1] D
+
+strategy 67 
+D 
+[2, 2, 2, 0] Strategy
+[3, 1, 4, 1] C
+[1, 4, 2, 1] D
+
+strategy 68 
+D 
+[2, 2, 2, 0] Strategy
+[3, 2, 4, 1] C
+[1, 4, 2, 1] D
+
+strategy 69 
+D 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[1, 4, 2, 1] D
+
+strategy 70 
+D 
+[2, 2, 2, 0] Strategy
+[3, 3, 4, 1] C
+[1, 4, 2, 1] D
+
+strategy 71 
+D 
+[2, 2, 2, 0] Strategy
+[3, 4, 4, 1] C
+[1, 4, 2, 1] D
+
+strategy 72 
+D 
+[2, 2, 2, 0] Strategy
+[2, 3, 1, 1] C
+[1, 4, 3, 1] D
+
+strategy 73 
+D 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[1, 2, 3, 1] D
+
+strategy 74 
+D 
+[2, 1, 2, 0] Strategy
+[3, 1, 2, 1] C
+[1, 4, 3, 1] D
+
+strategy 75 
+D 
+[2, 2, 2, 0] Strategy
+[3, 1, 2, 1] C
+[1, 4, 3, 1] D
+
+strategy 76 
+D 
+[2, 2, 2, 0] Strategy
+[3, 2, 2, 1] C
+[1, 4, 3, 1] D
+
+strategy 77 
+D 
+[2, 1, 2, 0] Strategy
+[3, 3, 2, 1] C
+[1, 4, 3, 1] D
+
+strategy 78 
+D 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[1, 4, 3, 1] D
+
+strategy 79 
+D 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[1, 4, 3, 1] D
+
+strategy 80 
+D 
+[2, 1, 2, 0] Strategy
+[3, 4, 2, 1] C
+[1, 4, 3, 1] D
+
+strategy 81 
+D 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[1, 4, 3, 1] D
+
+strategy 82 
+D 
+[2, 2, 2, 0] Strategy
+[2, 3, 3, 1] C
+[1, 4, 3, 1] D
+
+strategy 83 
+D 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[1, 4, 3, 1] D
+
+strategy 84 
+D 
+[2, 2, 1, 0] Strategy
+[2, 3, 1, 1] C
+[1, 4, 4, 1] D
+
+strategy 85 
+D 
+[2, 2, 2, 0] Strategy
+[2, 3, 1, 1] C
+[1, 4, 4, 1] D
+
+strategy 86 
+D 
+[2, 2, 1, 0] Strategy
+[2, 3, 2, 1] C
+[1, 4, 4, 1] D
+
+strategy 87 
+D 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[1, 1, 4, 1] D
+
+strategy 88 
+D 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[1, 2, 4, 1] D
+
+strategy 89 
+D 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[1, 2, 4, 1] D
+
+strategy 90 
+D 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[1, 3, 4, 1] D
+
+strategy 91 
+D 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[1, 3, 4, 1] D
+
+strategy 92 
+D 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[1, 4, 4, 1] D
+
+strategy 93 
+D 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[1, 4, 4, 1] D
+
+strategy 94 
+D 
+[2, 1, 2, 0] Strategy
+[3, 4, 2, 1] C
+[1, 4, 4, 1] D
+
+strategy 95 
+D 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[1, 4, 4, 1] D
+
+strategy 96 
+D 
+[2, 2, 2, 0] Strategy
+[2, 2, 3, 1] C
+[1, 3, 4, 1] D
+
+strategy 97 
+D 
+[2, 2, 2, 1] Strategy
+[2, 4, 1, 1] C
+[1, 3, 1, 1] D
+
+strategy 98 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 1] C
+[1, 1, 1, 1] D
+
+strategy 99 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 1] C
+[1, 2, 1, 1] D
+
+strategy 100 
+D 
+[2, 2, 2, 1] Strategy
+[2, 4, 2, 1] C
+[1, 3, 1, 1] D
+
+strategy 101 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 1] C
+[1, 3, 1, 1] D
+
+strategy 102 
+D 
+[2, 2, 2, 1] Strategy
+[3, 1, 2, 1] C
+[1, 4, 1, 1] D
+
+strategy 103 
+D 
+[2, 2, 2, 1] Strategy
+[3, 2, 2, 1] C
+[1, 4, 1, 1] D
+
+strategy 104 
+D 
+[2, 2, 2, 1] Strategy
+[3, 3, 2, 1] C
+[1, 4, 1, 1] D
+
+strategy 105 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 1] C
+[1, 4, 1, 1] D
+
+strategy 106 
+D 
+[2, 2, 2, 1] Strategy
+[2, 4, 3, 1] C
+[1, 3, 1, 1] D
+
+strategy 107 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 1] C
+[1, 2, 1, 1] D
+
+strategy 108 
+D 
+[2, 2, 2, 1] Strategy
+[2, 1, 4, 1] C
+[1, 3, 1, 1] D
+
+strategy 109 
+D 
+[2, 2, 2, 1] Strategy
+[2, 2, 4, 1] C
+[1, 3, 1, 1] D
+
+strategy 110 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 1] C
+[1, 3, 1, 1] D
+
+strategy 111 
+D 
+[2, 2, 2, 1] Strategy
+[2, 4, 4, 1] C
+[1, 3, 1, 1] D
+
+strategy 112 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 1, 1] C
+[1, 2, 2, 1] D
+
+strategy 113 
+D 
+[2, 2, 2, 1] Strategy
+[2, 4, 1, 1] C
+[1, 3, 2, 1] D
+
+strategy 114 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 1, 1] C
+[1, 3, 2, 1] D
+
+strategy 115 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 1] C
+[1, 2, 2, 1] D
+
+strategy 116 
+D 
+[2, 2, 2, 1] Strategy
+[2, 4, 2, 1] C
+[1, 3, 2, 1] D
+
+strategy 117 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 1] C
+[1, 3, 2, 1] D
+
+strategy 118 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 3, 1] C
+[1, 2, 2, 1] D
+
+strategy 119 
+D 
+[2, 2, 2, 1] Strategy
+[2, 4, 3, 1] C
+[1, 3, 2, 1] D
+
+strategy 120 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 3, 1] C
+[1, 3, 2, 1] D
+
+strategy 121 
+D 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 1] C
+[1, 2, 2, 1] D
+
+strategy 122 
+D 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 1] C
+[1, 2, 2, 1] D
+
+strategy 123 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 1] C
+[1, 2, 2, 1] D
+
+strategy 124 
+D 
+[2, 2, 2, 1] Strategy
+[3, 3, 4, 1] C
+[1, 2, 2, 1] D
+
+strategy 125 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 4, 1] C
+[1, 2, 2, 1] D
+
+strategy 126 
+D 
+[2, 2, 2, 1] Strategy
+[2, 4, 4, 1] C
+[1, 3, 2, 1] D
+
+strategy 127 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 4, 1] C
+[1, 3, 2, 1] D
+
+strategy 128 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 1] C
+[1, 2, 3, 1] D
+
+strategy 129 
+D 
+[2, 2, 2, 1] Strategy
+[3, 1, 2, 1] C
+[1, 4, 3, 1] D
+
+strategy 130 
+D 
+[2, 2, 2, 1] Strategy
+[3, 2, 2, 1] C
+[1, 4, 3, 1] D
+
+strategy 131 
+D 
+[2, 2, 2, 1] Strategy
+[3, 3, 2, 1] C
+[1, 4, 3, 1] D
+
+strategy 132 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 1] C
+[1, 4, 3, 1] D
+
+strategy 133 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 2, 1] C
+[1, 1, 4, 1] D
+
+strategy 134 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 2, 1] C
+[1, 2, 4, 1] D
+
+strategy 135 
+D 
+[2, 2, 1, 2] Strategy
+[2, 3, 2, 1] C
+[1, 4, 1, 1] D
+
+strategy 136 
+D 
+[2, 1, 2, 2] Strategy
+[3, 4, 2, 1] C
+[1, 1, 1, 1] D
+
+strategy 137 
+D 
+[2, 1, 2, 2] Strategy
+[3, 1, 2, 1] C
+[1, 4, 1, 1] D
+
+strategy 138 
+D 
+[2, 1, 2, 2] Strategy
+[3, 3, 2, 1] C
+[1, 4, 1, 1] D
+
+strategy 139 
+D 
+[2, 1, 2, 2] Strategy
+[3, 4, 2, 1] C
+[1, 4, 1, 1] D
+
+strategy 140 
+D 
+[2, 2, 1, 2] Strategy
+[2, 3, 4, 1] C
+[1, 2, 1, 1] D
+
+strategy 141 
+D 
+[2, 2, 1, 2] Strategy
+[2, 3, 4, 1] C
+[1, 4, 1, 1] D
+
+strategy 142 
+D 
+[2, 1, 2, 2] Strategy
+[3, 1, 2, 1] C
+[1, 4, 3, 1] D
+
+strategy 143 
+D 
+[2, 1, 2, 2] Strategy
+[3, 3, 2, 1] C
+[1, 4, 3, 1] D
+
+strategy 144 
+D 
+[2, 1, 2, 2] Strategy
+[3, 4, 2, 1] C
+[1, 4, 3, 1] D
+
+strategy 145 
+D 
+[2, 2, 1, 2] Strategy
+[2, 3, 1, 1] C
+[1, 4, 4, 1] D
+
+strategy 146 
+D 
+[2, 2, 1, 2] Strategy
+[2, 3, 2, 1] C
+[1, 4, 4, 1] D
+
+strategy 147 
+D 
+[2, 1, 2, 2] Strategy
+[3, 4, 2, 1] C
+[1, 4, 4, 1] D
+
+strategy 148 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 2] C
+[1, 1, 1, 1] D
+
+strategy 149 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 2] C
+[1, 2, 1, 1] D
+
+strategy 150 
+D 
+[2, 2, 2, 1] Strategy
+[2, 4, 2, 2] C
+[1, 3, 1, 1] D
+
+strategy 151 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 2] C
+[1, 3, 1, 1] D
+
+strategy 152 
+D 
+[2, 2, 2, 1] Strategy
+[2, 4, 3, 2] C
+[1, 3, 1, 1] D
+
+strategy 153 
+D 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 2] C
+[1, 1, 1, 1] D
+
+strategy 154 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 2] C
+[1, 1, 1, 1] D
+
+strategy 155 
+D 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 2] C
+[1, 2, 1, 1] D
+
+strategy 156 
+D 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 2] C
+[1, 2, 1, 1] D
+
+strategy 157 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 2] C
+[1, 2, 1, 1] D
+
+strategy 158 
+D 
+[2, 2, 2, 1] Strategy
+[3, 3, 4, 2] C
+[1, 2, 1, 1] D
+
+strategy 159 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 4, 2] C
+[1, 2, 1, 1] D
+
+strategy 160 
+D 
+[2, 2, 2, 1] Strategy
+[2, 1, 4, 2] C
+[1, 3, 1, 1] D
+
+strategy 161 
+D 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 2] C
+[1, 3, 1, 1] D
+
+strategy 162 
+D 
+[2, 2, 2, 1] Strategy
+[2, 2, 4, 2] C
+[1, 3, 1, 1] D
+
+strategy 163 
+D 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 2] C
+[1, 3, 1, 1] D
+
+strategy 164 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 2] C
+[1, 3, 1, 1] D
+
+strategy 165 
+D 
+[2, 2, 2, 1] Strategy
+[3, 3, 4, 2] C
+[1, 3, 1, 1] D
+
+strategy 166 
+D 
+[2, 2, 2, 1] Strategy
+[2, 4, 4, 2] C
+[1, 3, 1, 1] D
+
+strategy 167 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 4, 2] C
+[1, 3, 1, 1] D
+
+strategy 168 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 1, 2] C
+[1, 1, 2, 1] D
+
+strategy 169 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 1, 2] C
+[1, 2, 2, 1] D
+
+strategy 170 
+D 
+[2, 2, 2, 1] Strategy
+[2, 4, 1, 2] C
+[1, 3, 2, 1] D
+
+strategy 171 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 1, 2] C
+[1, 3, 2, 1] D
+
+strategy 172 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 2] C
+[1, 1, 2, 1] D
+
+strategy 173 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 2] C
+[1, 2, 2, 1] D
+
+strategy 174 
+D 
+[2, 2, 2, 1] Strategy
+[2, 4, 2, 2] C
+[1, 3, 2, 1] D
+
+strategy 175 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 2] C
+[1, 3, 2, 1] D
+
+strategy 176 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 3, 2] C
+[1, 1, 2, 1] D
+
+strategy 177 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 3, 2] C
+[1, 2, 2, 1] D
+
+strategy 178 
+D 
+[2, 2, 2, 1] Strategy
+[2, 4, 3, 2] C
+[1, 3, 2, 1] D
+
+strategy 179 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 3, 2] C
+[1, 3, 2, 1] D
+
+strategy 180 
+D 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 2] C
+[1, 1, 2, 1] D
+
+strategy 181 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 2] C
+[1, 1, 2, 1] D
+
+strategy 182 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 4, 2] C
+[1, 1, 2, 1] D
+
+strategy 183 
+D 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 2] C
+[1, 2, 2, 1] D
+
+strategy 184 
+D 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 2] C
+[1, 2, 2, 1] D
+
+strategy 185 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 2] C
+[1, 2, 2, 1] D
+
+strategy 186 
+D 
+[2, 2, 2, 1] Strategy
+[3, 3, 4, 2] C
+[1, 2, 2, 1] D
+
+strategy 187 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 4, 2] C
+[1, 2, 2, 1] D
+
+strategy 188 
+D 
+[2, 2, 2, 1] Strategy
+[2, 1, 4, 2] C
+[1, 3, 2, 1] D
+
+strategy 189 
+D 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 2] C
+[1, 3, 2, 1] D
+
+strategy 190 
+D 
+[2, 2, 2, 1] Strategy
+[2, 2, 4, 2] C
+[1, 3, 2, 1] D
+
+strategy 191 
+D 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 2] C
+[1, 3, 2, 1] D
+
+strategy 192 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 2] C
+[1, 3, 2, 1] D
+
+strategy 193 
+D 
+[2, 2, 2, 1] Strategy
+[3, 3, 4, 2] C
+[1, 3, 2, 1] D
+
+strategy 194 
+D 
+[2, 2, 2, 1] Strategy
+[2, 4, 4, 2] C
+[1, 3, 2, 1] D
+
+strategy 195 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 4, 2] C
+[1, 3, 2, 1] D
+
+strategy 196 
+D 
+[2, 2, 2, 1] Strategy
+[2, 4, 1, 2] C
+[1, 3, 3, 1] D
+
+strategy 197 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 2] C
+[1, 1, 3, 1] D
+
+strategy 198 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 2] C
+[1, 2, 3, 1] D
+
+strategy 199 
+D 
+[2, 2, 2, 1] Strategy
+[2, 4, 2, 2] C
+[1, 3, 3, 1] D
+
+strategy 200 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 2] C
+[1, 3, 3, 1] D
+
+strategy 201 
+D 
+[2, 2, 2, 1] Strategy
+[2, 4, 3, 2] C
+[1, 3, 3, 1] D
+
+strategy 202 
+D 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 2] C
+[1, 1, 3, 1] D
+
+strategy 203 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 2] C
+[1, 1, 3, 1] D
+
+strategy 204 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 4, 2] C
+[1, 1, 3, 1] D
+
+strategy 205 
+D 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 2] C
+[1, 2, 3, 1] D
+
+strategy 206 
+D 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 2] C
+[1, 2, 3, 1] D
+
+strategy 207 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 2] C
+[1, 2, 3, 1] D
+
+strategy 208 
+D 
+[2, 2, 2, 1] Strategy
+[3, 3, 4, 2] C
+[1, 2, 3, 1] D
+
+strategy 209 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 4, 2] C
+[1, 2, 3, 1] D
+
+strategy 210 
+D 
+[2, 2, 2, 1] Strategy
+[2, 1, 4, 2] C
+[1, 3, 3, 1] D
+
+strategy 211 
+D 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 2] C
+[1, 3, 3, 1] D
+
+strategy 212 
+D 
+[2, 2, 2, 1] Strategy
+[2, 2, 4, 2] C
+[1, 3, 3, 1] D
+
+strategy 213 
+D 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 2] C
+[1, 3, 3, 1] D
+
+strategy 214 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 2] C
+[1, 3, 3, 1] D
+
+strategy 215 
+D 
+[2, 2, 2, 1] Strategy
+[3, 3, 4, 2] C
+[1, 3, 3, 1] D
+
+strategy 216 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 1, 2] C
+[1, 1, 4, 1] D
+
+strategy 217 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 1, 2] C
+[1, 2, 4, 1] D
+
+strategy 218 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 2, 2] C
+[1, 1, 4, 1] D
+
+strategy 219 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 2, 2] C
+[1, 2, 4, 1] D
+
+strategy 220 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 3, 2] C
+[1, 1, 4, 1] D
+
+strategy 221 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 3, 2] C
+[1, 2, 4, 1] D
+
+strategy 222 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 2] C
+[1, 1, 4, 1] D
+
+strategy 223 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 2] C
+[1, 2, 4, 1] D
+
+strategy 224 
+D 
+[2, 1, 2, 2] Strategy
+[4, 1, 3, 2] C
+[1, 3, 1, 1] D
+
+strategy 225 
+D 
+[2, 1, 2, 2] Strategy
+[4, 3, 3, 2] C
+[1, 3, 1, 1] D
+
+strategy 226 
+D 
+[2, 1, 2, 2] Strategy
+[4, 4, 3, 2] C
+[1, 3, 1, 1] D
+
+strategy 227 
+D 
+[2, 2, 1, 2] Strategy
+[4, 4, 4, 2] C
+[1, 3, 1, 1] D
+
+strategy 228 
+D 
+[2, 1, 2, 2] Strategy
+[3, 1, 4, 2] C
+[1, 3, 1, 1] D
+
+strategy 229 
+D 
+[2, 1, 2, 2] Strategy
+[3, 3, 4, 2] C
+[1, 3, 1, 1] D
+
+strategy 230 
+D 
+[2, 1, 2, 2] Strategy
+[3, 4, 4, 2] C
+[1, 3, 1, 1] D
+
+strategy 231 
+D 
+[2, 1, 2, 2] Strategy
+[4, 1, 1, 2] C
+[1, 3, 3, 1] D
+
+strategy 232 
+D 
+[2, 1, 2, 2] Strategy
+[4, 3, 1, 2] C
+[1, 3, 3, 1] D
+
+strategy 233 
+D 
+[2, 1, 2, 2] Strategy
+[4, 4, 1, 2] C
+[1, 3, 3, 1] D
+
+strategy 234 
+D 
+[2, 1, 2, 2] Strategy
+[4, 1, 3, 2] C
+[1, 3, 3, 1] D
+
+strategy 235 
+D 
+[2, 1, 2, 2] Strategy
+[4, 3, 3, 2] C
+[1, 3, 3, 1] D
+
+strategy 236 
+D 
+[2, 1, 2, 2] Strategy
+[4, 4, 3, 2] C
+[1, 3, 3, 1] D
+
+strategy 237 
+D 
+[2, 1, 2, 2] Strategy
+[3, 1, 4, 2] C
+[1, 3, 3, 1] D
+
+strategy 238 
+D 
+[2, 1, 2, 2] Strategy
+[4, 1, 4, 2] C
+[1, 3, 3, 1] D
+
+strategy 239 
+D 
+[2, 1, 2, 2] Strategy
+[3, 3, 4, 2] C
+[1, 3, 3, 1] D
+
+strategy 240 
+D 
+[2, 1, 2, 2] Strategy
+[4, 3, 4, 2] C
+[1, 3, 3, 1] D
+
+strategy 241 
+D 
+[2, 1, 2, 2] Strategy
+[3, 4, 4, 2] C
+[1, 3, 3, 1] D
+
+strategy 242 
+D 
+[2, 1, 2, 2] Strategy
+[4, 4, 4, 2] C
+[1, 3, 3, 1] D
+
+strategy 243 
+D 
+[2, 2, 1, 2] Strategy
+[4, 3, 1, 2] C
+[1, 2, 4, 1] D
+
+strategy 244 
+D 
+[2, 2, 1, 2] Strategy
+[4, 3, 1, 2] C
+[1, 4, 4, 1] D
+
+strategy 245 
+D 
+[2, 2, 1, 2] Strategy
+[4, 3, 2, 2] C
+[1, 2, 4, 1] D
+
+strategy 246 
+D 
+[2, 2, 1, 2] Strategy
+[4, 3, 2, 2] C
+[1, 4, 4, 1] D
+
+strategy 247 
+D 
+[2, 2, 1, 2] Strategy
+[4, 3, 4, 2] C
+[1, 2, 4, 1] D
+
+strategy 248 
+D 
+[2, 2, 1, 2] Strategy
+[4, 3, 4, 2] C
+[1, 4, 4, 1] D
+
+strategy 249 
+D 
+[2, 2, 2, 1] Strategy
+[2, 4, 4, 3] C
+[1, 3, 2, 1] D
+
+strategy 250 
+D 
+[2, 2, 2, 1] Strategy
+[3, 4, 4, 3] C
+[1, 3, 2, 1] D
+
+strategy 251 
+D 
+[2, 2, 2, 1] Strategy
+[3, 3, 2, 3] C
+[1, 4, 3, 1] D
+
+strategy 252 
+D 
+[2, 2, 2, 1] Strategy
+[2, 4, 4, 3] C
+[1, 2, 3, 1] D
+
+strategy 253 
+D 
+[2, 1, 2, 2] Strategy
+[3, 1, 2, 4] C
+[1, 4, 3, 1] D
+
+strategy 254 
+D 
+[2, 1, 2, 2] Strategy
+[3, 3, 2, 4] C
+[1, 4, 3, 1] D
+
+strategy 255 
+D 
+[2, 1, 2, 2] Strategy
+[3, 4, 2, 4] C
+[1, 4, 3, 1] D
+
+strategy 256 
+D 
+[2, 2, 1, 2] Strategy
+[2, 3, 1, 4] C
+[1, 4, 4, 1] D
+
+strategy 257 
+D 
+[2, 2, 1, 2] Strategy
+[2, 3, 2, 4] C
+[1, 4, 4, 1] D
+
+strategy 258 
+D 
+[2, 1, 2, 2] Strategy
+[3, 4, 2, 4] C
+[1, 4, 4, 1] D
+
+strategy 259 
+D 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 1] C
+[1, 2, 2, 2] D
+
+strategy 260 
+D 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 1] C
+[1, 2, 2, 2] D
+
+strategy 261 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 1] C
+[1, 2, 2, 2] D
+
+strategy 262 
+D 
+[2, 2, 2, 1] Strategy
+[3, 3, 4, 1] C
+[1, 2, 2, 2] D
+
+strategy 263 
+D 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 1] C
+[1, 2, 3, 2] D
+
+strategy 264 
+D 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 1] C
+[1, 2, 3, 2] D
+
+strategy 265 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 1] C
+[1, 2, 3, 2] D
+
+strategy 266 
+D 
+[2, 2, 2, 1] Strategy
+[3, 3, 4, 1] C
+[1, 2, 3, 2] D
+
+strategy 267 
+D 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 2] C
+[1, 2, 2, 2] D
+
+strategy 268 
+D 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 2] C
+[1, 2, 2, 2] D
+
+strategy 269 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 2] C
+[1, 2, 2, 2] D
+
+strategy 270 
+D 
+[2, 2, 2, 1] Strategy
+[3, 3, 4, 2] C
+[1, 2, 2, 2] D
+
+strategy 271 
+D 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 2] C
+[1, 2, 3, 2] D
+
+strategy 272 
+D 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 2] C
+[1, 2, 3, 2] D
+
+strategy 273 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 2] C
+[1, 2, 3, 2] D
+
+strategy 274 
+D 
+[2, 2, 2, 1] Strategy
+[3, 3, 4, 2] C
+[1, 2, 3, 2] D
+
+strategy 275 
+D 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 3] C
+[1, 2, 2, 2] D
+
+strategy 276 
+D 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 3] C
+[1, 2, 2, 2] D
+
+strategy 277 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 3] C
+[1, 2, 2, 2] D
+
+strategy 278 
+D 
+[2, 2, 2, 1] Strategy
+[3, 3, 4, 3] C
+[1, 2, 2, 2] D
+
+strategy 279 
+D 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 3] C
+[1, 2, 3, 2] D
+
+strategy 280 
+D 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 3] C
+[1, 2, 3, 2] D
+
+strategy 281 
+D 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 3] C
+[1, 2, 3, 2] D
+
+strategy 282 
+D 
+[2, 2, 2, 1] Strategy
+[3, 3, 4, 3] C
+[1, 2, 3, 2] D
+
+strategy 283 
+DD 
+[2, 2, 0, 0] Strategy
+[3, 1, 1, 1] C
+[2, 1, 1, 1] D
+
+strategy 284 
+DD 
+[2, 2, 0, 0] Strategy
+[3, 2, 1, 1] C
+[2, 1, 1, 1] D
+
+strategy 285 
+DD 
+[2, 2, 0, 0] Strategy
+[1, 3, 1, 1] C
+[2, 1, 1, 1] D
+
+strategy 286 
+DD 
+[2, 2, 0, 0] Strategy
+[2, 3, 1, 1] C
+[2, 1, 1, 1] D
+
+strategy 287 
+DD 
+[2, 2, 0, 0] Strategy
+[3, 3, 1, 1] C
+[2, 1, 1, 1] D
+
+strategy 288 
+DD 
+[2, 2, 2, 0] Strategy
+[4, 3, 1, 1] C
+[2, 1, 1, 1] D
+
+strategy 289 
+DD 
+[2, 2, 2, 0] Strategy
+[3, 4, 1, 1] C
+[2, 1, 1, 1] D
+
+strategy 290 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 4, 1, 1] C
+[3, 1, 1, 1] D
+
+strategy 291 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 4, 1, 1] C
+[3, 2, 1, 1] D
+
+strategy 292 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 4, 1, 1] C
+[3, 3, 1, 1] D
+
+strategy 293 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 1, 1, 1] C
+[3, 4, 1, 1] D
+
+strategy 294 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 2, 1, 1] C
+[3, 4, 1, 1] D
+
+strategy 295 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 3, 1, 1] C
+[3, 4, 1, 1] D
+
+strategy 296 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 4, 1, 1] C
+[3, 4, 1, 1] D
+
+strategy 297 
+DD 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[2, 1, 1, 1] D
+
+strategy 298 
+DD 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[3, 1, 1, 1] D
+
+strategy 299 
+DD 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[2, 1, 1, 1] D
+
+strategy 300 
+DD 
+[2, 2, 2, 0] Strategy
+[1, 4, 2, 1] C
+[3, 1, 1, 1] D
+
+strategy 301 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 4, 2, 1] C
+[3, 1, 1, 1] D
+
+strategy 302 
+DD 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[3, 1, 1, 1] D
+
+strategy 303 
+DD 
+[2, 2, 2, 0] Strategy
+[4, 4, 2, 1] C
+[3, 1, 1, 1] D
+
+strategy 304 
+DD 
+[2, 2, 2, 0] Strategy
+[4, 1, 2, 1] C
+[3, 2, 1, 1] D
+
+strategy 305 
+DD 
+[2, 2, 2, 0] Strategy
+[4, 2, 2, 1] C
+[3, 2, 1, 1] D
+
+strategy 306 
+DD 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[3, 2, 1, 1] D
+
+strategy 307 
+DD 
+[2, 2, 2, 0] Strategy
+[1, 4, 2, 1] C
+[3, 2, 1, 1] D
+
+strategy 308 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 4, 2, 1] C
+[3, 2, 1, 1] D
+
+strategy 309 
+DD 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[3, 2, 1, 1] D
+
+strategy 310 
+DD 
+[2, 2, 2, 0] Strategy
+[4, 4, 2, 1] C
+[3, 2, 1, 1] D
+
+strategy 311 
+DD 
+[2, 2, 2, 0] Strategy
+[4, 1, 2, 1] C
+[3, 3, 1, 1] D
+
+strategy 312 
+DD 
+[2, 2, 2, 0] Strategy
+[4, 2, 2, 1] C
+[3, 3, 1, 1] D
+
+strategy 313 
+DD 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[3, 3, 1, 1] D
+
+strategy 314 
+DD 
+[2, 2, 2, 0] Strategy
+[1, 4, 2, 1] C
+[3, 3, 1, 1] D
+
+strategy 315 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 4, 2, 1] C
+[3, 3, 1, 1] D
+
+strategy 316 
+DD 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[3, 3, 1, 1] D
+
+strategy 317 
+DD 
+[2, 2, 2, 0] Strategy
+[1, 1, 2, 1] C
+[3, 4, 1, 1] D
+
+strategy 318 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 1, 2, 1] C
+[3, 4, 1, 1] D
+
+strategy 319 
+DD 
+[2, 2, 2, 0] Strategy
+[3, 1, 2, 1] C
+[3, 4, 1, 1] D
+
+strategy 320 
+DD 
+[2, 2, 2, 0] Strategy
+[4, 1, 2, 1] C
+[3, 4, 1, 1] D
+
+strategy 321 
+DD 
+[2, 2, 2, 0] Strategy
+[1, 2, 2, 1] C
+[3, 4, 1, 1] D
+
+strategy 322 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 2, 2, 1] C
+[3, 4, 1, 1] D
+
+strategy 323 
+DD 
+[2, 2, 2, 0] Strategy
+[3, 2, 2, 1] C
+[3, 4, 1, 1] D
+
+strategy 324 
+DD 
+[2, 2, 2, 0] Strategy
+[4, 2, 2, 1] C
+[3, 4, 1, 1] D
+
+strategy 325 
+DD 
+[2, 2, 2, 0] Strategy
+[1, 3, 2, 1] C
+[3, 4, 1, 1] D
+
+strategy 326 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[3, 4, 1, 1] D
+
+strategy 327 
+DD 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[3, 4, 1, 1] D
+
+strategy 328 
+DD 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[3, 4, 1, 1] D
+
+strategy 329 
+DD 
+[2, 2, 2, 0] Strategy
+[1, 4, 2, 1] C
+[3, 4, 1, 1] D
+
+strategy 330 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 4, 2, 1] C
+[3, 4, 1, 1] D
+
+strategy 331 
+DD 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[3, 4, 1, 1] D
+
+strategy 332 
+DD 
+[2, 2, 2, 0] Strategy
+[4, 4, 2, 1] C
+[3, 4, 1, 1] D
+
+strategy 333 
+DD 
+[2, 2, 2, 0] Strategy
+[3, 4, 3, 1] C
+[2, 1, 1, 1] D
+
+strategy 334 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 4, 3, 1] C
+[3, 1, 1, 1] D
+
+strategy 335 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 4, 3, 1] C
+[3, 2, 1, 1] D
+
+strategy 336 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 4, 3, 1] C
+[3, 3, 1, 1] D
+
+strategy 337 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 1, 3, 1] C
+[3, 4, 1, 1] D
+
+strategy 338 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 2, 3, 1] C
+[3, 4, 1, 1] D
+
+strategy 339 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 3, 3, 1] C
+[3, 4, 1, 1] D
+
+strategy 340 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 4, 3, 1] C
+[3, 4, 1, 1] D
+
+strategy 341 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 1, 4, 1] C
+[3, 2, 1, 1] D
+
+strategy 342 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 2, 4, 1] C
+[3, 2, 1, 1] D
+
+strategy 343 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[3, 2, 1, 1] D
+
+strategy 344 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 4, 4, 1] C
+[3, 2, 1, 1] D
+
+strategy 345 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 1, 4, 1] C
+[3, 3, 1, 1] D
+
+strategy 346 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[3, 3, 1, 1] D
+
+strategy 347 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 4, 4, 1] C
+[3, 3, 1, 1] D
+
+strategy 348 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 1, 4, 1] C
+[3, 4, 1, 1] D
+
+strategy 349 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 2, 4, 1] C
+[3, 4, 1, 1] D
+
+strategy 350 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[3, 4, 1, 1] D
+
+strategy 351 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 4, 4, 1] C
+[3, 4, 1, 1] D
+
+strategy 352 
+DD 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[2, 1, 2, 1] D
+
+strategy 353 
+DD 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[2, 1, 3, 1] D
+
+strategy 354 
+DD 
+[2, 2, 2, 0] Strategy
+[1, 3, 2, 1] C
+[2, 1, 4, 1] D
+
+strategy 355 
+DD 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[2, 1, 4, 1] D
+
+strategy 356 
+DD 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[2, 1, 4, 1] D
+
+strategy 357 
+DD 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[2, 1, 4, 1] D
+
+strategy 358 
+DD 
+[2, 2, 2, 0] Strategy
+[3, 2, 3, 1] C
+[2, 1, 4, 1] D
+
+strategy 359 
+DD 
+[2, 2, 2, 1] Strategy
+[2, 4, 1, 1] C
+[3, 1, 1, 1] D
+
+strategy 360 
+DD 
+[2, 2, 2, 1] Strategy
+[2, 4, 1, 1] C
+[3, 2, 1, 1] D
+
+strategy 361 
+DD 
+[2, 2, 2, 1] Strategy
+[2, 4, 1, 1] C
+[3, 3, 1, 1] D
+
+strategy 362 
+DD 
+[2, 2, 2, 1] Strategy
+[1, 4, 2, 1] C
+[3, 1, 1, 1] D
+
+strategy 363 
+DD 
+[2, 2, 2, 1] Strategy
+[2, 4, 2, 1] C
+[3, 1, 1, 1] D
+
+strategy 364 
+DD 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 1] C
+[3, 1, 1, 1] D
+
+strategy 365 
+DD 
+[2, 2, 2, 1] Strategy
+[1, 4, 2, 1] C
+[3, 2, 1, 1] D
+
+strategy 366 
+DD 
+[2, 2, 2, 1] Strategy
+[2, 4, 2, 1] C
+[3, 2, 1, 1] D
+
+strategy 367 
+DD 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 1] C
+[3, 2, 1, 1] D
+
+strategy 368 
+DD 
+[2, 2, 2, 1] Strategy
+[1, 4, 2, 1] C
+[3, 3, 1, 1] D
+
+strategy 369 
+DD 
+[2, 2, 2, 1] Strategy
+[2, 4, 2, 1] C
+[3, 3, 1, 1] D
+
+strategy 370 
+DD 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 1] C
+[3, 3, 1, 1] D
+
+strategy 371 
+DD 
+[2, 2, 2, 1] Strategy
+[2, 4, 3, 1] C
+[3, 1, 1, 1] D
+
+strategy 372 
+DD 
+[2, 2, 2, 1] Strategy
+[2, 4, 3, 1] C
+[3, 2, 1, 1] D
+
+strategy 373 
+DD 
+[2, 2, 2, 1] Strategy
+[2, 4, 3, 1] C
+[3, 3, 1, 1] D
+
+strategy 374 
+DD 
+[2, 2, 2, 2] Strategy
+[4, 3, 1, 1] C
+[2, 1, 1, 1] D
+
+strategy 375 
+DD 
+[2, 2, 1, 2] Strategy
+[2, 3, 2, 1] C
+[4, 1, 1, 1] D
+
+strategy 376 
+DD 
+[2, 2, 1, 2] Strategy
+[2, 3, 2, 1] C
+[4, 2, 1, 1] D
+
+strategy 377 
+DD 
+[2, 2, 1, 2] Strategy
+[2, 3, 2, 1] C
+[4, 4, 1, 1] D
+
+strategy 378 
+DD 
+[2, 1, 2, 2] Strategy
+[3, 4, 2, 1] C
+[4, 1, 1, 1] D
+
+strategy 379 
+DD 
+[2, 1, 2, 2] Strategy
+[3, 1, 2, 1] C
+[4, 4, 1, 1] D
+
+strategy 380 
+DD 
+[2, 1, 2, 2] Strategy
+[3, 3, 2, 1] C
+[4, 4, 1, 1] D
+
+strategy 381 
+DD 
+[2, 1, 2, 2] Strategy
+[3, 4, 2, 1] C
+[4, 4, 1, 1] D
+
+strategy 382 
+DD 
+[2, 2, 1, 2] Strategy
+[2, 3, 4, 1] C
+[4, 2, 1, 1] D
+
+strategy 383 
+DD 
+[2, 2, 1, 2] Strategy
+[2, 3, 4, 1] C
+[4, 4, 1, 1] D
+
+strategy 384 
+DD 
+[2, 1, 2, 2] Strategy
+[3, 1, 2, 1] C
+[4, 4, 3, 1] D
+
+strategy 385 
+DD 
+[2, 1, 2, 2] Strategy
+[3, 3, 2, 1] C
+[4, 4, 3, 1] D
+
+strategy 386 
+DD 
+[2, 1, 2, 2] Strategy
+[3, 4, 2, 1] C
+[4, 4, 3, 1] D
+
+strategy 387 
+DD 
+[2, 2, 1, 2] Strategy
+[2, 3, 1, 1] C
+[4, 4, 4, 1] D
+
+strategy 388 
+DD 
+[2, 2, 1, 2] Strategy
+[2, 3, 2, 1] C
+[4, 4, 4, 1] D
+
+strategy 389 
+DD 
+[2, 1, 2, 2] Strategy
+[3, 4, 2, 1] C
+[4, 4, 4, 1] D
+
+strategy 390 
+DD 
+[2, 2, 2, 1] Strategy
+[1, 4, 2, 2] C
+[3, 1, 1, 1] D
+
+strategy 391 
+DD 
+[2, 2, 2, 1] Strategy
+[2, 4, 2, 2] C
+[3, 1, 1, 1] D
+
+strategy 392 
+DD 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 2] C
+[3, 1, 1, 1] D
+
+strategy 393 
+DD 
+[2, 2, 2, 1] Strategy
+[1, 4, 2, 2] C
+[3, 2, 1, 1] D
+
+strategy 394 
+DD 
+[2, 2, 2, 1] Strategy
+[2, 4, 2, 2] C
+[3, 2, 1, 1] D
+
+strategy 395 
+DD 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 2] C
+[3, 2, 1, 1] D
+
+strategy 396 
+DD 
+[2, 2, 2, 1] Strategy
+[1, 4, 2, 2] C
+[3, 3, 1, 1] D
+
+strategy 397 
+DD 
+[2, 2, 2, 1] Strategy
+[2, 4, 2, 2] C
+[3, 3, 1, 1] D
+
+strategy 398 
+DD 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 2] C
+[3, 3, 1, 1] D
+
+strategy 399 
+DD 
+[2, 2, 2, 1] Strategy
+[2, 4, 3, 2] C
+[3, 1, 1, 1] D
+
+strategy 400 
+DD 
+[2, 2, 2, 1] Strategy
+[2, 4, 3, 2] C
+[3, 2, 1, 1] D
+
+strategy 401 
+DD 
+[2, 2, 2, 1] Strategy
+[2, 4, 3, 2] C
+[3, 3, 1, 1] D
+
+strategy 402 
+DD 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 2] C
+[2, 1, 1, 1] D
+
+strategy 403 
+DD 
+[2, 2, 2, 1] Strategy
+[1, 3, 4, 2] C
+[2, 1, 1, 1] D
+
+strategy 404 
+DD 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 2] C
+[2, 1, 1, 1] D
+
+strategy 405 
+DD 
+[2, 2, 2, 1] Strategy
+[3, 3, 4, 2] C
+[2, 1, 1, 1] D
+
+strategy 406 
+DD 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 2] C
+[2, 1, 2, 1] D
+
+strategy 407 
+DD 
+[2, 2, 2, 1] Strategy
+[1, 3, 4, 2] C
+[2, 1, 2, 1] D
+
+strategy 408 
+DD 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 2] C
+[2, 1, 2, 1] D
+
+strategy 409 
+DD 
+[2, 2, 2, 1] Strategy
+[3, 3, 4, 2] C
+[2, 1, 2, 1] D
+
+strategy 410 
+DD 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 2] C
+[2, 1, 3, 1] D
+
+strategy 411 
+DD 
+[2, 2, 2, 1] Strategy
+[1, 3, 4, 2] C
+[2, 1, 3, 1] D
+
+strategy 412 
+DD 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 2] C
+[2, 1, 3, 1] D
+
+strategy 413 
+DD 
+[2, 2, 2, 1] Strategy
+[3, 3, 4, 2] C
+[2, 1, 3, 1] D
+
+strategy 414 
+DD 
+[2, 1, 2, 2] Strategy
+[4, 1, 3, 2] C
+[3, 3, 1, 1] D
+
+strategy 415 
+DD 
+[2, 1, 2, 2] Strategy
+[4, 3, 3, 2] C
+[3, 3, 1, 1] D
+
+strategy 416 
+DD 
+[2, 1, 2, 2] Strategy
+[4, 4, 3, 2] C
+[3, 3, 1, 1] D
+
+strategy 417 
+DD 
+[2, 1, 2, 2] Strategy
+[1, 1, 4, 2] C
+[3, 3, 1, 1] D
+
+strategy 418 
+DD 
+[2, 1, 2, 2] Strategy
+[3, 1, 4, 2] C
+[3, 3, 1, 1] D
+
+strategy 419 
+DD 
+[2, 1, 2, 2] Strategy
+[4, 1, 4, 2] C
+[3, 3, 1, 1] D
+
+strategy 420 
+DD 
+[2, 1, 2, 2] Strategy
+[1, 3, 4, 2] C
+[3, 3, 1, 1] D
+
+strategy 421 
+DD 
+[2, 1, 2, 2] Strategy
+[3, 3, 4, 2] C
+[3, 3, 1, 1] D
+
+strategy 422 
+DD 
+[2, 1, 2, 2] Strategy
+[4, 3, 4, 2] C
+[3, 3, 1, 1] D
+
+strategy 423 
+DD 
+[2, 1, 2, 2] Strategy
+[1, 4, 4, 2] C
+[3, 3, 1, 1] D
+
+strategy 424 
+DD 
+[2, 1, 2, 2] Strategy
+[3, 4, 4, 2] C
+[3, 3, 1, 1] D
+
+strategy 425 
+DD 
+[2, 1, 2, 2] Strategy
+[4, 4, 4, 2] C
+[3, 3, 1, 1] D
+
+strategy 426 
+DD 
+[2, 2, 1, 2] Strategy
+[1, 3, 1, 2] C
+[4, 2, 4, 1] D
+
+strategy 427 
+DD 
+[2, 2, 1, 2] Strategy
+[2, 3, 1, 2] C
+[4, 2, 4, 1] D
+
+strategy 428 
+DD 
+[2, 2, 1, 2] Strategy
+[4, 3, 1, 2] C
+[4, 2, 4, 1] D
+
+strategy 429 
+DD 
+[2, 2, 1, 2] Strategy
+[1, 3, 1, 2] C
+[4, 4, 4, 1] D
+
+strategy 430 
+DD 
+[2, 2, 1, 2] Strategy
+[2, 3, 1, 2] C
+[4, 4, 4, 1] D
+
+strategy 431 
+DD 
+[2, 2, 1, 2] Strategy
+[4, 3, 1, 2] C
+[4, 4, 4, 1] D
+
+strategy 432 
+DD 
+[2, 2, 1, 2] Strategy
+[1, 3, 2, 2] C
+[4, 2, 4, 1] D
+
+strategy 433 
+DD 
+[2, 2, 1, 2] Strategy
+[2, 3, 2, 2] C
+[4, 2, 4, 1] D
+
+strategy 434 
+DD 
+[2, 2, 1, 2] Strategy
+[4, 3, 2, 2] C
+[4, 2, 4, 1] D
+
+strategy 435 
+DD 
+[2, 2, 1, 2] Strategy
+[1, 3, 2, 2] C
+[4, 4, 4, 1] D
+
+strategy 436 
+DD 
+[2, 2, 1, 2] Strategy
+[2, 3, 2, 2] C
+[4, 4, 4, 1] D
+
+strategy 437 
+DD 
+[2, 2, 1, 2] Strategy
+[4, 3, 2, 2] C
+[4, 4, 4, 1] D
+
+strategy 438 
+DD 
+[2, 2, 1, 2] Strategy
+[1, 3, 4, 2] C
+[4, 2, 4, 1] D
+
+strategy 439 
+DD 
+[2, 2, 1, 2] Strategy
+[2, 3, 4, 2] C
+[4, 2, 4, 1] D
+
+strategy 440 
+DD 
+[2, 2, 1, 2] Strategy
+[4, 3, 4, 2] C
+[4, 2, 4, 1] D
+
+strategy 441 
+DD 
+[2, 2, 1, 2] Strategy
+[1, 3, 4, 2] C
+[4, 4, 4, 1] D
+
+strategy 442 
+DD 
+[2, 2, 1, 2] Strategy
+[2, 3, 4, 2] C
+[4, 4, 4, 1] D
+
+strategy 443 
+DD 
+[2, 2, 1, 2] Strategy
+[4, 3, 4, 2] C
+[4, 4, 4, 1] D
+
+strategy 444 
+DD 
+[2, 1, 2, 2] Strategy
+[3, 1, 2, 4] C
+[4, 4, 3, 1] D
+
+strategy 445 
+DD 
+[2, 1, 2, 2] Strategy
+[3, 3, 2, 4] C
+[4, 4, 3, 1] D
+
+strategy 446 
+DD 
+[2, 1, 2, 2] Strategy
+[3, 4, 2, 4] C
+[4, 4, 3, 1] D
+
+strategy 447 
+DD 
+[2, 2, 1, 2] Strategy
+[2, 3, 1, 4] C
+[4, 4, 4, 1] D
+
+strategy 448 
+DD 
+[2, 2, 1, 2] Strategy
+[2, 3, 2, 4] C
+[4, 4, 4, 1] D
+
+strategy 449 
+DD 
+[2, 1, 2, 2] Strategy
+[3, 4, 2, 4] C
+[4, 4, 4, 1] D
+
+strategy 450 
+DDD 
+[2, 2, 2, 0] Strategy
+[4, 1, 1, 1] C
+[2, 3, 1, 1] D
+
+strategy 451 
+DDD 
+[2, 2, 2, 0] Strategy
+[4, 2, 1, 1] C
+[2, 3, 1, 1] D
+
+strategy 452 
+DDD 
+[2, 2, 2, 0] Strategy
+[4, 3, 1, 1] C
+[2, 3, 1, 1] D
+
+strategy 453 
+DDD 
+[2, 2, 2, 0] Strategy
+[1, 4, 1, 1] C
+[2, 3, 1, 1] D
+
+strategy 454 
+DDD 
+[2, 2, 2, 0] Strategy
+[2, 4, 1, 1] C
+[2, 3, 1, 1] D
+
+strategy 455 
+DDD 
+[2, 2, 2, 0] Strategy
+[3, 4, 1, 1] C
+[2, 3, 1, 1] D
+
+strategy 456 
+DDD 
+[2, 2, 2, 0] Strategy
+[4, 4, 1, 1] C
+[2, 3, 1, 1] D
+
+strategy 457 
+DDD 
+[2, 2, 2, 0] Strategy
+[4, 1, 2, 1] C
+[2, 3, 1, 1] D
+
+strategy 458 
+DDD 
+[2, 2, 2, 0] Strategy
+[4, 2, 2, 1] C
+[2, 3, 1, 1] D
+
+strategy 459 
+DDD 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[2, 3, 1, 1] D
+
+strategy 460 
+DDD 
+[2, 2, 2, 0] Strategy
+[1, 4, 2, 1] C
+[2, 3, 1, 1] D
+
+strategy 461 
+DDD 
+[2, 2, 2, 0] Strategy
+[2, 4, 2, 1] C
+[2, 3, 1, 1] D
+
+strategy 462 
+DDD 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[2, 3, 1, 1] D
+
+strategy 463 
+DDD 
+[2, 2, 2, 0] Strategy
+[4, 4, 2, 1] C
+[2, 3, 1, 1] D
+
+strategy 464 
+DDD 
+[2, 2, 2, 0] Strategy
+[4, 1, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 465 
+DDD 
+[2, 2, 2, 0] Strategy
+[4, 2, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 466 
+DDD 
+[2, 2, 2, 0] Strategy
+[4, 3, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 467 
+DDD 
+[2, 2, 2, 0] Strategy
+[1, 4, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 468 
+DDD 
+[2, 2, 2, 0] Strategy
+[2, 4, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 469 
+DDD 
+[2, 2, 2, 0] Strategy
+[3, 4, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 470 
+DDD 
+[2, 2, 2, 0] Strategy
+[4, 4, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 471 
+DDD 
+[2, 2, 2, 0] Strategy
+[1, 1, 4, 1] C
+[2, 3, 1, 1] D
+
+strategy 472 
+DDD 
+[2, 2, 2, 0] Strategy
+[2, 1, 4, 1] C
+[2, 3, 1, 1] D
+
+strategy 473 
+DDD 
+[2, 2, 2, 0] Strategy
+[3, 1, 4, 1] C
+[2, 3, 1, 1] D
+
+strategy 474 
+DDD 
+[2, 2, 2, 0] Strategy
+[4, 1, 4, 1] C
+[2, 3, 1, 1] D
+
+strategy 475 
+DDD 
+[2, 2, 2, 0] Strategy
+[1, 2, 4, 1] C
+[2, 3, 1, 1] D
+
+strategy 476 
+DDD 
+[2, 2, 2, 0] Strategy
+[2, 2, 4, 1] C
+[2, 3, 1, 1] D
+
+strategy 477 
+DDD 
+[2, 2, 2, 0] Strategy
+[3, 2, 4, 1] C
+[2, 3, 1, 1] D
+
+strategy 478 
+DDD 
+[2, 2, 2, 0] Strategy
+[4, 2, 4, 1] C
+[2, 3, 1, 1] D
+
+strategy 479 
+DDD 
+[2, 2, 2, 0] Strategy
+[1, 3, 4, 1] C
+[2, 3, 1, 1] D
+
+strategy 480 
+DDD 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[2, 3, 1, 1] D
+
+strategy 481 
+DDD 
+[2, 2, 2, 0] Strategy
+[3, 3, 4, 1] C
+[2, 3, 1, 1] D
+
+strategy 482 
+DDD 
+[2, 2, 2, 0] Strategy
+[4, 3, 4, 1] C
+[2, 3, 1, 1] D
+
+strategy 483 
+DDD 
+[2, 2, 2, 0] Strategy
+[1, 4, 4, 1] C
+[2, 3, 1, 1] D
+
+strategy 484 
+DDD 
+[2, 2, 2, 0] Strategy
+[2, 4, 4, 1] C
+[2, 3, 1, 1] D
+
+strategy 485 
+DDD 
+[2, 2, 2, 0] Strategy
+[3, 4, 4, 1] C
+[2, 3, 1, 1] D
+
+strategy 486 
+DDD 
+[2, 2, 2, 0] Strategy
+[4, 4, 4, 1] C
+[2, 3, 1, 1] D
+
+strategy 487 
+DDD 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[3, 1, 2, 1] D
+
+strategy 488 
+DDD 
+[2, 2, 2, 0] Strategy
+[4, 2, 3, 1] C
+[3, 1, 2, 1] D
+
+strategy 489 
+dD 
+[2, 2, 0, 0] Strategy
+[3, 1, 1, 1] C
+[2, 2, 1, 1] D
+
+strategy 490 
+dD 
+[2, 2, 0, 0] Strategy
+[3, 2, 1, 1] C
+[2, 2, 1, 1] D
+
+strategy 491 
+dD 
+[2, 2, 0, 0] Strategy
+[1, 3, 1, 1] C
+[2, 2, 1, 1] D
+
+strategy 492 
+dD 
+[2, 2, 0, 0] Strategy
+[2, 3, 1, 1] C
+[2, 2, 1, 1] D
+
+strategy 493 
+dD 
+[2, 2, 0, 0] Strategy
+[4, 3, 1, 1] C
+[2, 2, 1, 1] D
+
+strategy 494 
+dD 
+[2, 2, 2, 0] Strategy
+[4, 3, 1, 1] C
+[2, 2, 1, 1] D
+
+strategy 495 
+dD 
+[2, 2, 2, 0] Strategy
+[3, 4, 1, 1] C
+[2, 2, 1, 1] D
+
+strategy 496 
+dD 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[2, 2, 1, 1] D
+
+strategy 497 
+dD 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[2, 2, 1, 1] D
+
+strategy 498 
+dD 
+[2, 2, 2, 0] Strategy
+[4, 3, 3, 1] C
+[2, 2, 1, 1] D
+
+strategy 499 
+dD 
+[2, 2, 2, 0] Strategy
+[3, 4, 3, 1] C
+[2, 2, 1, 1] D
+
+strategy 500 
+dD 
+[2, 2, 2, 0] Strategy
+[3, 1, 4, 1] C
+[2, 2, 1, 1] D
+
+strategy 501 
+dD 
+[2, 2, 2, 0] Strategy
+[3, 2, 4, 1] C
+[2, 2, 1, 1] D
+
+strategy 502 
+dD 
+[2, 2, 2, 0] Strategy
+[1, 3, 4, 1] C
+[2, 2, 1, 1] D
+
+strategy 503 
+dD 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[2, 2, 1, 1] D
+
+strategy 504 
+dD 
+[2, 2, 2, 0] Strategy
+[4, 3, 4, 1] C
+[2, 2, 1, 1] D
+
+strategy 505 
+dD 
+[2, 2, 2, 0] Strategy
+[3, 4, 4, 1] C
+[2, 2, 1, 1] D
+
+strategy 506 
+dD 
+[2, 2, 2, 0] Strategy
+[4, 3, 1, 1] C
+[2, 2, 2, 1] D
+
+strategy 507 
+dD 
+[2, 2, 2, 0] Strategy
+[3, 4, 1, 1] C
+[2, 2, 2, 1] D
+
+strategy 508 
+dD 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[2, 2, 2, 1] D
+
+strategy 509 
+dD 
+[2, 2, 2, 0] Strategy
+[3, 1, 4, 1] C
+[2, 2, 2, 1] D
+
+strategy 510 
+dD 
+[2, 2, 2, 0] Strategy
+[3, 2, 4, 1] C
+[2, 2, 2, 1] D
+
+strategy 511 
+dD 
+[2, 2, 2, 0] Strategy
+[1, 3, 4, 1] C
+[2, 2, 2, 1] D
+
+strategy 512 
+dD 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[2, 2, 2, 1] D
+
+strategy 513 
+dD 
+[2, 2, 2, 0] Strategy
+[4, 3, 1, 1] C
+[2, 2, 3, 1] D
+
+strategy 514 
+dD 
+[2, 2, 2, 0] Strategy
+[3, 4, 1, 1] C
+[2, 2, 3, 1] D
+
+strategy 515 
+dD 
+[2, 2, 2, 0] Strategy
+[2, 4, 1, 1] C
+[3, 2, 3, 1] D
+
+strategy 516 
+dD 
+[2, 2, 2, 0] Strategy
+[2, 1, 1, 1] C
+[3, 4, 3, 1] D
+
+strategy 517 
+dD 
+[2, 2, 2, 0] Strategy
+[2, 2, 1, 1] C
+[3, 4, 3, 1] D
+
+strategy 518 
+dD 
+[2, 2, 2, 0] Strategy
+[2, 3, 1, 1] C
+[3, 4, 3, 1] D
+
+strategy 519 
+dD 
+[2, 2, 2, 0] Strategy
+[2, 4, 1, 1] C
+[3, 4, 3, 1] D
+
+strategy 520 
+dD 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[3, 1, 3, 1] D
+
+strategy 521 
+dD 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[2, 2, 3, 1] D
+
+strategy 522 
+dD 
+[2, 2, 2, 0] Strategy
+[1, 4, 2, 1] C
+[3, 2, 3, 1] D
+
+strategy 523 
+dD 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[3, 2, 3, 1] D
+
+strategy 524 
+dD 
+[2, 2, 2, 0] Strategy
+[4, 4, 2, 1] C
+[3, 2, 3, 1] D
+
+strategy 525 
+dD 
+[2, 2, 2, 0] Strategy
+[1, 1, 2, 1] C
+[3, 4, 3, 1] D
+
+strategy 526 
+dD 
+[2, 2, 2, 0] Strategy
+[3, 1, 2, 1] C
+[3, 4, 3, 1] D
+
+strategy 527 
+dD 
+[2, 2, 2, 0] Strategy
+[4, 1, 2, 1] C
+[3, 4, 3, 1] D
+
+strategy 528 
+dD 
+[2, 2, 2, 0] Strategy
+[1, 2, 2, 1] C
+[3, 4, 3, 1] D
+
+strategy 529 
+dD 
+[2, 2, 2, 0] Strategy
+[3, 2, 2, 1] C
+[3, 4, 3, 1] D
+
+strategy 530 
+dD 
+[2, 2, 2, 0] Strategy
+[4, 2, 2, 1] C
+[3, 4, 3, 1] D
+
+strategy 531 
+dD 
+[2, 2, 2, 0] Strategy
+[1, 3, 2, 1] C
+[3, 4, 3, 1] D
+
+strategy 532 
+dD 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[3, 4, 3, 1] D
+
+strategy 533 
+dD 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[3, 4, 3, 1] D
+
+strategy 534 
+dD 
+[2, 2, 2, 0] Strategy
+[1, 4, 2, 1] C
+[3, 4, 3, 1] D
+
+strategy 535 
+dD 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[3, 4, 3, 1] D
+
+strategy 536 
+dD 
+[2, 2, 2, 0] Strategy
+[4, 4, 2, 1] C
+[3, 4, 3, 1] D
+
+strategy 537 
+dD 
+[2, 2, 2, 0] Strategy
+[3, 4, 3, 1] C
+[2, 2, 3, 1] D
+
+strategy 538 
+dD 
+[2, 2, 2, 0] Strategy
+[2, 4, 3, 1] C
+[3, 2, 3, 1] D
+
+strategy 539 
+dD 
+[2, 2, 2, 0] Strategy
+[2, 1, 3, 1] C
+[3, 4, 3, 1] D
+
+strategy 540 
+dD 
+[2, 2, 2, 0] Strategy
+[2, 2, 3, 1] C
+[3, 4, 3, 1] D
+
+strategy 541 
+dD 
+[2, 2, 2, 0] Strategy
+[2, 3, 3, 1] C
+[3, 4, 3, 1] D
+
+strategy 542 
+dD 
+[2, 2, 2, 0] Strategy
+[2, 4, 3, 1] C
+[3, 4, 3, 1] D
+
+strategy 543 
+dD 
+[2, 2, 2, 0] Strategy
+[3, 4, 4, 1] C
+[2, 2, 3, 1] D
+
+strategy 544 
+dD 
+[2, 2, 2, 0] Strategy
+[2, 4, 4, 1] C
+[3, 2, 3, 1] D
+
+strategy 545 
+dD 
+[2, 2, 2, 0] Strategy
+[2, 1, 4, 1] C
+[3, 4, 3, 1] D
+
+strategy 546 
+dD 
+[2, 2, 2, 0] Strategy
+[2, 2, 4, 1] C
+[3, 4, 3, 1] D
+
+strategy 547 
+dD 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[3, 4, 3, 1] D
+
+strategy 548 
+dD 
+[2, 2, 2, 0] Strategy
+[2, 4, 4, 1] C
+[3, 4, 3, 1] D
+
+strategy 549 
+dD 
+[2, 2, 2, 0] Strategy
+[1, 3, 2, 1] C
+[2, 2, 4, 1] D
+
+strategy 550 
+dD 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[2, 2, 4, 1] D
+
+strategy 551 
+dD 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[2, 2, 4, 1] D
+
+strategy 552 
+dD 
+[2, 2, 2, 0] Strategy
+[3, 2, 3, 1] C
+[2, 2, 4, 1] D
+
+strategy 553 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 1] C
+[2, 2, 1, 1] D
+
+strategy 554 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 1] C
+[2, 2, 1, 1] D
+
+strategy 555 
+dD 
+[2, 2, 2, 1] Strategy
+[1, 3, 4, 1] C
+[2, 2, 1, 1] D
+
+strategy 556 
+dD 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 1] C
+[2, 2, 1, 1] D
+
+strategy 557 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 1] C
+[2, 2, 2, 1] D
+
+strategy 558 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 1] C
+[2, 2, 2, 1] D
+
+strategy 559 
+dD 
+[2, 2, 2, 1] Strategy
+[1, 3, 4, 1] C
+[2, 2, 2, 1] D
+
+strategy 560 
+dD 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 1] C
+[2, 2, 2, 1] D
+
+strategy 561 
+dD 
+[2, 2, 2, 1] Strategy
+[2, 4, 1, 1] C
+[3, 2, 3, 1] D
+
+strategy 562 
+dD 
+[2, 2, 2, 1] Strategy
+[1, 4, 2, 1] C
+[3, 2, 3, 1] D
+
+strategy 563 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 1] C
+[3, 2, 3, 1] D
+
+strategy 564 
+dD 
+[2, 2, 2, 1] Strategy
+[2, 4, 3, 1] C
+[3, 2, 3, 1] D
+
+strategy 565 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 2] C
+[2, 2, 1, 1] D
+
+strategy 566 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 2] C
+[2, 2, 1, 1] D
+
+strategy 567 
+dD 
+[2, 2, 2, 1] Strategy
+[1, 3, 4, 2] C
+[2, 2, 1, 1] D
+
+strategy 568 
+dD 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 2] C
+[2, 2, 1, 1] D
+
+strategy 569 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 2] C
+[2, 2, 2, 1] D
+
+strategy 570 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 2] C
+[2, 2, 2, 1] D
+
+strategy 571 
+dD 
+[2, 2, 2, 1] Strategy
+[1, 3, 4, 2] C
+[2, 2, 2, 1] D
+
+strategy 572 
+dD 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 2] C
+[2, 2, 2, 1] D
+
+strategy 573 
+dD 
+[2, 2, 2, 1] Strategy
+[2, 4, 1, 2] C
+[3, 1, 3, 1] D
+
+strategy 574 
+dD 
+[2, 2, 2, 1] Strategy
+[2, 4, 1, 2] C
+[3, 2, 3, 1] D
+
+strategy 575 
+dD 
+[2, 2, 2, 1] Strategy
+[2, 4, 1, 2] C
+[3, 3, 3, 1] D
+
+strategy 576 
+dD 
+[2, 2, 2, 1] Strategy
+[1, 4, 2, 2] C
+[3, 1, 3, 1] D
+
+strategy 577 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 2] C
+[3, 1, 3, 1] D
+
+strategy 578 
+dD 
+[2, 2, 2, 1] Strategy
+[1, 4, 2, 2] C
+[3, 2, 3, 1] D
+
+strategy 579 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 2] C
+[3, 2, 3, 1] D
+
+strategy 580 
+dD 
+[2, 2, 2, 1] Strategy
+[1, 4, 2, 2] C
+[3, 3, 3, 1] D
+
+strategy 581 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 2] C
+[3, 3, 3, 1] D
+
+strategy 582 
+dD 
+[2, 2, 2, 1] Strategy
+[2, 4, 3, 2] C
+[3, 1, 3, 1] D
+
+strategy 583 
+dD 
+[2, 2, 2, 1] Strategy
+[2, 4, 3, 2] C
+[3, 2, 3, 1] D
+
+strategy 584 
+dD 
+[2, 2, 2, 1] Strategy
+[2, 4, 3, 2] C
+[3, 3, 3, 1] D
+
+strategy 585 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 2] C
+[2, 2, 3, 1] D
+
+strategy 586 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 2] C
+[2, 2, 3, 1] D
+
+strategy 587 
+dD 
+[2, 2, 2, 1] Strategy
+[1, 3, 4, 2] C
+[2, 2, 3, 1] D
+
+strategy 588 
+dD 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 2] C
+[2, 2, 3, 1] D
+
+strategy 589 
+dD 
+[2, 1, 2, 2] Strategy
+[4, 1, 1, 2] C
+[3, 3, 3, 1] D
+
+strategy 590 
+dD 
+[2, 1, 2, 2] Strategy
+[4, 3, 1, 2] C
+[3, 3, 3, 1] D
+
+strategy 591 
+dD 
+[2, 1, 2, 2] Strategy
+[4, 4, 1, 2] C
+[3, 3, 3, 1] D
+
+strategy 592 
+dD 
+[2, 1, 2, 2] Strategy
+[4, 1, 3, 2] C
+[3, 3, 3, 1] D
+
+strategy 593 
+dD 
+[2, 1, 2, 2] Strategy
+[4, 3, 3, 2] C
+[3, 3, 3, 1] D
+
+strategy 594 
+dD 
+[2, 1, 2, 2] Strategy
+[4, 4, 3, 2] C
+[3, 3, 3, 1] D
+
+strategy 595 
+dD 
+[2, 1, 2, 2] Strategy
+[1, 1, 4, 2] C
+[3, 3, 3, 1] D
+
+strategy 596 
+dD 
+[2, 1, 2, 2] Strategy
+[3, 1, 4, 2] C
+[3, 3, 3, 1] D
+
+strategy 597 
+dD 
+[2, 1, 2, 2] Strategy
+[1, 3, 4, 2] C
+[3, 3, 3, 1] D
+
+strategy 598 
+dD 
+[2, 1, 2, 2] Strategy
+[3, 3, 4, 2] C
+[3, 3, 3, 1] D
+
+strategy 599 
+dD 
+[2, 1, 2, 2] Strategy
+[1, 4, 4, 2] C
+[3, 3, 3, 1] D
+
+strategy 600 
+dD 
+[2, 1, 2, 2] Strategy
+[3, 4, 4, 2] C
+[3, 3, 3, 1] D
+
+strategy 601 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 1] C
+[2, 2, 2, 2] D
+
+strategy 602 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 1] C
+[2, 2, 2, 2] D
+
+strategy 603 
+dD 
+[2, 2, 2, 1] Strategy
+[1, 3, 4, 1] C
+[2, 2, 2, 2] D
+
+strategy 604 
+dD 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 1] C
+[2, 2, 2, 2] D
+
+strategy 605 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 1] C
+[2, 2, 3, 2] D
+
+strategy 606 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 1] C
+[2, 2, 3, 2] D
+
+strategy 607 
+dD 
+[2, 2, 2, 1] Strategy
+[1, 3, 4, 1] C
+[2, 2, 3, 2] D
+
+strategy 608 
+dD 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 1] C
+[2, 2, 3, 2] D
+
+strategy 609 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 2] C
+[2, 2, 2, 2] D
+
+strategy 610 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 2] C
+[2, 2, 2, 2] D
+
+strategy 611 
+dD 
+[2, 2, 2, 1] Strategy
+[1, 3, 4, 2] C
+[2, 2, 2, 2] D
+
+strategy 612 
+dD 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 2] C
+[2, 2, 2, 2] D
+
+strategy 613 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 2] C
+[2, 2, 3, 2] D
+
+strategy 614 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 2] C
+[2, 2, 3, 2] D
+
+strategy 615 
+dD 
+[2, 2, 2, 1] Strategy
+[1, 3, 4, 2] C
+[2, 2, 3, 2] D
+
+strategy 616 
+dD 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 2] C
+[2, 2, 3, 2] D
+
+strategy 617 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 3] C
+[2, 2, 2, 2] D
+
+strategy 618 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 3] C
+[2, 2, 2, 2] D
+
+strategy 619 
+dD 
+[2, 2, 2, 1] Strategy
+[1, 3, 4, 3] C
+[2, 2, 2, 2] D
+
+strategy 620 
+dD 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 3] C
+[2, 2, 2, 2] D
+
+strategy 621 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 3] C
+[2, 2, 3, 2] D
+
+strategy 622 
+dD 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 3] C
+[2, 2, 3, 2] D
+
+strategy 623 
+dD 
+[2, 2, 2, 1] Strategy
+[1, 3, 4, 3] C
+[2, 2, 3, 2] D
+
+strategy 624 
+dD 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 3] C
+[2, 2, 3, 2] D
+
+strategy 625 
+dDD 
+[2, 2, 2, 0] Strategy
+[4, 1, 1, 1] C
+[2, 3, 2, 1] D
+
+strategy 626 
+dDD 
+[2, 2, 2, 0] Strategy
+[4, 1, 1, 1] C
+[3, 3, 2, 1] D
+
+strategy 627 
+dDD 
+[2, 2, 2, 0] Strategy
+[4, 2, 1, 1] C
+[2, 3, 2, 1] D
+
+strategy 628 
+dDD 
+[2, 2, 2, 0] Strategy
+[4, 2, 1, 1] C
+[3, 3, 2, 1] D
+
+strategy 629 
+dDD 
+[2, 2, 2, 0] Strategy
+[4, 3, 1, 1] C
+[2, 3, 2, 1] D
+
+strategy 630 
+dDD 
+[2, 2, 2, 0] Strategy
+[4, 3, 1, 1] C
+[3, 3, 2, 1] D
+
+strategy 631 
+dDD 
+[2, 2, 2, 0] Strategy
+[2, 4, 1, 1] C
+[2, 3, 2, 1] D
+
+strategy 632 
+dDD 
+[2, 2, 2, 0] Strategy
+[3, 4, 1, 1] C
+[2, 3, 2, 1] D
+
+strategy 633 
+dDD 
+[2, 2, 2, 0] Strategy
+[4, 4, 1, 1] C
+[2, 3, 2, 1] D
+
+strategy 634 
+dDD 
+[2, 2, 2, 0] Strategy
+[1, 4, 1, 1] C
+[3, 3, 2, 1] D
+
+strategy 635 
+dDD 
+[2, 2, 2, 0] Strategy
+[2, 4, 1, 1] C
+[3, 3, 2, 1] D
+
+strategy 636 
+dDD 
+[2, 2, 2, 0] Strategy
+[3, 4, 1, 1] C
+[3, 3, 2, 1] D
+
+strategy 637 
+dDD 
+[2, 2, 2, 0] Strategy
+[1, 4, 2, 1] C
+[2, 3, 2, 1] D
+
+strategy 638 
+dDD 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[2, 3, 2, 1] D
+
+strategy 639 
+dDD 
+[2, 2, 2, 0] Strategy
+[4, 4, 2, 1] C
+[2, 3, 2, 1] D
+
+strategy 640 
+dDD 
+[2, 2, 2, 0] Strategy
+[1, 4, 2, 1] C
+[3, 3, 2, 1] D
+
+strategy 641 
+dDD 
+[2, 2, 2, 0] Strategy
+[2, 4, 2, 1] C
+[3, 3, 2, 1] D
+
+strategy 642 
+dDD 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[3, 3, 2, 1] D
+
+strategy 643 
+dDD 
+[2, 2, 2, 0] Strategy
+[1, 4, 3, 1] C
+[2, 3, 2, 1] D
+
+strategy 644 
+dDD 
+[2, 2, 2, 0] Strategy
+[2, 4, 3, 1] C
+[2, 3, 2, 1] D
+
+strategy 645 
+dDD 
+[2, 2, 2, 0] Strategy
+[4, 4, 3, 1] C
+[2, 3, 2, 1] D
+
+strategy 646 
+dDD 
+[2, 2, 2, 0] Strategy
+[1, 4, 3, 1] C
+[3, 3, 2, 1] D
+
+strategy 647 
+dDD 
+[2, 2, 2, 0] Strategy
+[2, 4, 3, 1] C
+[3, 3, 2, 1] D
+
+strategy 648 
+dDD 
+[2, 2, 2, 0] Strategy
+[3, 4, 3, 1] C
+[3, 3, 2, 1] D
+
+strategy 649 
+dDD 
+[2, 2, 2, 0] Strategy
+[1, 4, 4, 1] C
+[2, 3, 2, 1] D
+
+strategy 650 
+dDD 
+[2, 2, 2, 0] Strategy
+[2, 4, 4, 1] C
+[2, 3, 2, 1] D
+
+strategy 651 
+dDD 
+[2, 2, 2, 0] Strategy
+[3, 4, 4, 1] C
+[2, 3, 2, 1] D
+
+strategy 652 
+dDD 
+[2, 2, 2, 0] Strategy
+[1, 4, 4, 1] C
+[3, 3, 2, 1] D
+
+strategy 653 
+dDD 
+[2, 2, 2, 0] Strategy
+[2, 4, 4, 1] C
+[3, 3, 2, 1] D
+
+strategy 654 
+dDD 
+[2, 2, 2, 0] Strategy
+[3, 4, 4, 1] C
+[3, 3, 2, 1] D
+
+strategy 655 
+dL 
+[2, 0, 0, 0] Strategy
+[1, 1, 1, 1] C
+[2, 1, 1, 1] D
+
+strategy 656 
+dL 
+[2, 0, 0, 0] Strategy
+[2, 1, 1, 1] C
+[2, 1, 1, 1] D
+
+strategy 657 
+dL 
+[2, 2, 0, 0] Strategy
+[2, 1, 1, 1] C
+[3, 1, 1, 1] D
+
+strategy 658 
+dL 
+[2, 2, 0, 0] Strategy
+[2, 2, 1, 1] C
+[3, 1, 1, 1] D
+
+strategy 659 
+dL 
+[2, 2, 0, 0] Strategy
+[2, 3, 1, 1] C
+[3, 1, 1, 1] D
+
+strategy 660 
+dL 
+[2, 2, 0, 0] Strategy
+[2, 1, 1, 1] C
+[3, 2, 1, 1] D
+
+strategy 661 
+dL 
+[2, 2, 0, 0] Strategy
+[2, 2, 1, 1] C
+[3, 2, 1, 1] D
+
+strategy 662 
+dL 
+[2, 2, 0, 0] Strategy
+[2, 3, 1, 1] C
+[3, 2, 1, 1] D
+
+strategy 663 
+dL 
+[2, 2, 0, 0] Strategy
+[2, 1, 1, 1] C
+[3, 3, 1, 1] D
+
+strategy 664 
+dL 
+[2, 2, 0, 0] Strategy
+[2, 2, 1, 1] C
+[4, 3, 1, 1] D
+
+strategy 665 
+dL 
+[2, 2, 0, 0] Strategy
+[2, 3, 1, 1] C
+[3, 3, 1, 1] D
+
+strategy 666 
+dL 
+[2, 2, 1, 0] Strategy
+[2, 3, 1, 1] C
+[4, 1, 1, 1] D
+
+strategy 667 
+dL 
+[2, 2, 1, 0] Strategy
+[2, 3, 1, 1] C
+[4, 2, 1, 1] D
+
+strategy 668 
+dL 
+[2, 2, 1, 0] Strategy
+[2, 3, 1, 1] C
+[4, 4, 1, 1] D
+
+strategy 669 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 1, 1] C
+[4, 1, 1, 1] D
+
+strategy 670 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 1, 1] C
+[4, 2, 1, 1] D
+
+strategy 671 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 1, 1, 1] C
+[4, 3, 1, 1] D
+
+strategy 672 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 2, 1, 1] C
+[4, 3, 1, 1] D
+
+strategy 673 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 1, 1] C
+[4, 3, 1, 1] D
+
+strategy 674 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 4, 1, 1] C
+[4, 3, 1, 1] D
+
+strategy 675 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 1, 1] C
+[4, 4, 1, 1] D
+
+strategy 676 
+dL 
+[2, 2, 1, 0] Strategy
+[2, 3, 2, 1] C
+[4, 1, 1, 1] D
+
+strategy 677 
+dL 
+[2, 2, 1, 0] Strategy
+[2, 3, 2, 1] C
+[4, 2, 1, 1] D
+
+strategy 678 
+dL 
+[2, 2, 1, 0] Strategy
+[2, 3, 2, 1] C
+[4, 4, 1, 1] D
+
+strategy 679 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[4, 1, 1, 1] D
+
+strategy 680 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[4, 1, 1, 1] D
+
+strategy 681 
+dL 
+[2, 1, 2, 0] Strategy
+[3, 4, 2, 1] C
+[4, 1, 1, 1] D
+
+strategy 682 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[4, 1, 1, 1] D
+
+strategy 683 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 1, 2, 1] C
+[4, 2, 1, 1] D
+
+strategy 684 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 2, 2, 1] C
+[4, 2, 1, 1] D
+
+strategy 685 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[4, 2, 1, 1] D
+
+strategy 686 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[4, 2, 1, 1] D
+
+strategy 687 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[4, 2, 1, 1] D
+
+strategy 688 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 1, 2, 1] C
+[4, 3, 1, 1] D
+
+strategy 689 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 1, 2, 1] C
+[4, 3, 1, 1] D
+
+strategy 690 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 2, 2, 1] C
+[4, 3, 1, 1] D
+
+strategy 691 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 2, 2, 1] C
+[4, 3, 1, 1] D
+
+strategy 692 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[4, 3, 1, 1] D
+
+strategy 693 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[4, 3, 1, 1] D
+
+strategy 694 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 4, 2, 1] C
+[4, 3, 1, 1] D
+
+strategy 695 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[4, 3, 1, 1] D
+
+strategy 696 
+dL 
+[2, 1, 2, 0] Strategy
+[3, 1, 2, 1] C
+[4, 4, 1, 1] D
+
+strategy 697 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 1, 2, 1] C
+[4, 4, 1, 1] D
+
+strategy 698 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 2, 2, 1] C
+[4, 4, 1, 1] D
+
+strategy 699 
+dL 
+[2, 1, 2, 0] Strategy
+[3, 3, 2, 1] C
+[4, 4, 1, 1] D
+
+strategy 700 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[4, 4, 1, 1] D
+
+strategy 701 
+dL 
+[2, 1, 2, 0] Strategy
+[3, 4, 2, 1] C
+[4, 4, 1, 1] D
+
+strategy 702 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[4, 4, 1, 1] D
+
+strategy 703 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 3, 1] C
+[4, 2, 1, 1] D
+
+strategy 704 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 1, 3, 1] C
+[4, 3, 1, 1] D
+
+strategy 705 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 2, 3, 1] C
+[4, 3, 1, 1] D
+
+strategy 706 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 3, 1] C
+[4, 3, 1, 1] D
+
+strategy 707 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 4, 3, 1] C
+[4, 3, 1, 1] D
+
+strategy 708 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 3, 1] C
+[4, 4, 1, 1] D
+
+strategy 709 
+dL 
+[2, 2, 1, 0] Strategy
+[2, 3, 4, 1] C
+[4, 2, 1, 1] D
+
+strategy 710 
+dL 
+[2, 2, 1, 0] Strategy
+[2, 3, 4, 1] C
+[4, 4, 1, 1] D
+
+strategy 711 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[4, 2, 1, 1] D
+
+strategy 712 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 1, 4, 1] C
+[4, 3, 1, 1] D
+
+strategy 713 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 2, 4, 1] C
+[4, 3, 1, 1] D
+
+strategy 714 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[4, 3, 1, 1] D
+
+strategy 715 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 4, 4, 1] C
+[4, 3, 1, 1] D
+
+strategy 716 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[4, 4, 1, 1] D
+
+strategy 717 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 2, 1, 1] C
+[4, 2, 2, 1] D
+
+strategy 718 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 1, 1] C
+[4, 2, 2, 1] D
+
+strategy 719 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 3, 1, 1] C
+[4, 2, 2, 1] D
+
+strategy 720 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 4, 1, 1] C
+[4, 2, 2, 1] D
+
+strategy 721 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 1, 1, 1] C
+[4, 3, 2, 1] D
+
+strategy 722 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 1, 1, 1] C
+[4, 3, 2, 1] D
+
+strategy 723 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 2, 1, 1] C
+[4, 3, 2, 1] D
+
+strategy 724 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 2, 1, 1] C
+[4, 3, 2, 1] D
+
+strategy 725 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 1, 1] C
+[4, 3, 2, 1] D
+
+strategy 726 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 3, 1, 1] C
+[4, 3, 2, 1] D
+
+strategy 727 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 4, 1, 1] C
+[4, 3, 2, 1] D
+
+strategy 728 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 4, 1, 1] C
+[4, 3, 2, 1] D
+
+strategy 729 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 1, 1, 1] C
+[4, 4, 2, 1] D
+
+strategy 730 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 2, 1, 1] C
+[4, 4, 2, 1] D
+
+strategy 731 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 1, 1] C
+[4, 4, 2, 1] D
+
+strategy 732 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 4, 1, 1] C
+[4, 4, 2, 1] D
+
+strategy 733 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[4, 1, 2, 1] D
+
+strategy 734 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[4, 1, 2, 1] D
+
+strategy 735 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 1, 2, 1] C
+[4, 2, 2, 1] D
+
+strategy 736 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[4, 2, 2, 1] D
+
+strategy 737 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 4, 2, 1] C
+[4, 3, 2, 1] D
+
+strategy 738 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[4, 3, 2, 1] D
+
+strategy 739 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 1, 2, 1] C
+[4, 4, 2, 1] D
+
+strategy 740 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 2, 2, 1] C
+[4, 4, 2, 1] D
+
+strategy 741 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[4, 4, 2, 1] D
+
+strategy 742 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[4, 4, 2, 1] D
+
+strategy 743 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 2, 3, 1] C
+[4, 1, 2, 1] D
+
+strategy 744 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 1, 3, 1] C
+[4, 2, 2, 1] D
+
+strategy 745 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 4, 3, 1] C
+[4, 2, 2, 1] D
+
+strategy 746 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 4, 3, 1] C
+[4, 3, 2, 1] D
+
+strategy 747 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 4, 3, 1] C
+[4, 3, 2, 1] D
+
+strategy 748 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 1, 3, 1] C
+[4, 4, 2, 1] D
+
+strategy 749 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 2, 3, 1] C
+[4, 4, 2, 1] D
+
+strategy 750 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 3, 1] C
+[4, 4, 2, 1] D
+
+strategy 751 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 4, 3, 1] C
+[4, 4, 2, 1] D
+
+strategy 752 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 1, 4, 1] C
+[4, 2, 2, 1] D
+
+strategy 753 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 2, 4, 1] C
+[4, 2, 2, 1] D
+
+strategy 754 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[4, 2, 2, 1] D
+
+strategy 755 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 3, 4, 1] C
+[4, 2, 2, 1] D
+
+strategy 756 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 4, 4, 1] C
+[4, 3, 2, 1] D
+
+strategy 757 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 4, 4, 1] C
+[4, 3, 2, 1] D
+
+strategy 758 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 1, 4, 1] C
+[4, 4, 2, 1] D
+
+strategy 759 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 2, 4, 1] C
+[4, 4, 2, 1] D
+
+strategy 760 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[4, 4, 2, 1] D
+
+strategy 761 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 4, 4, 1] C
+[4, 4, 2, 1] D
+
+strategy 762 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 1, 1] C
+[4, 2, 3, 1] D
+
+strategy 763 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 1, 1] C
+[4, 4, 3, 1] D
+
+strategy 764 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[4, 1, 3, 1] D
+
+strategy 765 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[4, 1, 3, 1] D
+
+strategy 766 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[4, 2, 3, 1] D
+
+strategy 767 
+dL 
+[2, 1, 2, 0] Strategy
+[3, 1, 2, 1] C
+[4, 4, 3, 1] D
+
+strategy 768 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 1, 2, 1] C
+[4, 4, 3, 1] D
+
+strategy 769 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 2, 2, 1] C
+[4, 4, 3, 1] D
+
+strategy 770 
+dL 
+[2, 1, 2, 0] Strategy
+[3, 3, 2, 1] C
+[4, 4, 3, 1] D
+
+strategy 771 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[4, 4, 3, 1] D
+
+strategy 772 
+dL 
+[2, 1, 2, 0] Strategy
+[3, 4, 2, 1] C
+[4, 4, 3, 1] D
+
+strategy 773 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[4, 4, 3, 1] D
+
+strategy 774 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 3, 1] C
+[4, 4, 3, 1] D
+
+strategy 775 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[4, 4, 3, 1] D
+
+strategy 776 
+dL 
+[2, 2, 1, 0] Strategy
+[2, 3, 1, 1] C
+[4, 4, 4, 1] D
+
+strategy 777 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 3, 1, 1] C
+[4, 4, 4, 1] D
+
+strategy 778 
+dL 
+[2, 2, 1, 0] Strategy
+[2, 3, 2, 1] C
+[4, 4, 4, 1] D
+
+strategy 779 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[4, 1, 4, 1] D
+
+strategy 780 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[4, 2, 4, 1] D
+
+strategy 781 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[4, 3, 4, 1] D
+
+strategy 782 
+dL 
+[2, 1, 2, 0] Strategy
+[3, 4, 2, 1] C
+[4, 4, 4, 1] D
+
+strategy 783 
+dL 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[4, 4, 4, 1] D
+
+strategy 784 
+dL 
+[2, 2, 2, 0] Strategy
+[2, 2, 3, 1] C
+[4, 3, 4, 1] D
+
+strategy 785 
+ddC 
+[2, 2, 1, 0] Strategy
+[1, 1, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 786 
+ddC 
+[2, 2, 1, 0] Strategy
+[2, 1, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 787 
+ddC 
+[2, 2, 1, 0] Strategy
+[3, 1, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 788 
+ddC 
+[2, 2, 1, 0] Strategy
+[4, 1, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 789 
+ddC 
+[2, 2, 1, 0] Strategy
+[1, 2, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 790 
+ddC 
+[2, 2, 1, 0] Strategy
+[2, 2, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 791 
+ddC 
+[2, 2, 1, 0] Strategy
+[3, 2, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 792 
+ddC 
+[2, 2, 1, 0] Strategy
+[4, 2, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 793 
+ddC 
+[2, 2, 1, 0] Strategy
+[1, 3, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 794 
+ddC 
+[2, 2, 1, 0] Strategy
+[2, 3, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 795 
+ddC 
+[2, 2, 1, 0] Strategy
+[3, 3, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 796 
+ddC 
+[2, 2, 1, 0] Strategy
+[4, 3, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 797 
+ddC 
+[2, 2, 1, 0] Strategy
+[1, 4, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 798 
+ddC 
+[2, 2, 1, 0] Strategy
+[2, 4, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 799 
+ddC 
+[2, 2, 1, 0] Strategy
+[3, 4, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 800 
+ddC 
+[2, 2, 1, 0] Strategy
+[4, 4, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 801 
+ddC 
+[2, 1, 2, 0] Strategy
+[1, 2, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 802 
+ddC 
+[2, 1, 2, 0] Strategy
+[2, 2, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 803 
+ddC 
+[2, 1, 2, 0] Strategy
+[3, 2, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 804 
+ddC 
+[2, 1, 2, 0] Strategy
+[4, 2, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 805 
+ddC 
+[2, 1, 2, 0] Strategy
+[1, 2, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 806 
+ddC 
+[2, 1, 2, 0] Strategy
+[2, 2, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 807 
+ddC 
+[2, 1, 2, 0] Strategy
+[3, 2, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 808 
+ddC 
+[2, 1, 2, 0] Strategy
+[4, 2, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 809 
+ddC 
+[2, 1, 2, 0] Strategy
+[1, 2, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 810 
+ddC 
+[2, 1, 2, 0] Strategy
+[2, 2, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 811 
+ddC 
+[2, 1, 2, 0] Strategy
+[3, 2, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 812 
+ddC 
+[2, 1, 2, 0] Strategy
+[4, 2, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 813 
+ddC 
+[2, 1, 2, 0] Strategy
+[1, 2, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 814 
+ddC 
+[2, 1, 2, 0] Strategy
+[2, 2, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 815 
+ddC 
+[2, 1, 2, 0] Strategy
+[3, 2, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 816 
+ddC 
+[2, 1, 2, 0] Strategy
+[4, 2, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 817 
+ddC 
+[2, 2, 1, 1] Strategy
+[4, 1, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 818 
+ddC 
+[2, 2, 1, 1] Strategy
+[4, 2, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 819 
+ddC 
+[2, 2, 1, 1] Strategy
+[4, 3, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 820 
+ddC 
+[2, 2, 1, 1] Strategy
+[1, 4, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 821 
+ddC 
+[2, 2, 1, 1] Strategy
+[2, 4, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 822 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 4, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 823 
+ddC 
+[2, 2, 1, 1] Strategy
+[4, 4, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 824 
+ddC 
+[2, 2, 1, 2] Strategy
+[4, 1, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 825 
+ddC 
+[2, 2, 1, 2] Strategy
+[4, 2, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 826 
+ddC 
+[2, 2, 1, 2] Strategy
+[4, 3, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 827 
+ddC 
+[2, 2, 1, 2] Strategy
+[1, 4, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 828 
+ddC 
+[2, 2, 1, 2] Strategy
+[2, 4, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 829 
+ddC 
+[2, 2, 1, 2] Strategy
+[3, 4, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 830 
+ddC 
+[2, 2, 1, 2] Strategy
+[4, 4, 3, 1] C
+[2, 3, 1, 1] D
+
+strategy 831 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 832 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 833 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 834 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 835 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 836 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 837 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 838 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 839 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 840 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 841 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 842 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 843 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 844 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 845 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 846 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 847 
+ddC 
+[2, 2, 1, 1] Strategy
+[4, 1, 3, 2] C
+[2, 3, 1, 1] D
+
+strategy 848 
+ddC 
+[2, 2, 1, 1] Strategy
+[4, 2, 3, 2] C
+[2, 3, 1, 1] D
+
+strategy 849 
+ddC 
+[2, 2, 1, 1] Strategy
+[4, 3, 3, 2] C
+[2, 3, 1, 1] D
+
+strategy 850 
+ddC 
+[2, 2, 1, 1] Strategy
+[1, 4, 3, 2] C
+[2, 3, 1, 1] D
+
+strategy 851 
+ddC 
+[2, 2, 1, 1] Strategy
+[2, 4, 3, 2] C
+[2, 3, 1, 1] D
+
+strategy 852 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 4, 3, 2] C
+[2, 3, 1, 1] D
+
+strategy 853 
+ddC 
+[2, 2, 1, 1] Strategy
+[4, 4, 3, 2] C
+[2, 3, 1, 1] D
+
+strategy 854 
+ddC 
+[2, 1, 2, 1] Strategy
+[4, 2, 1, 2] C
+[3, 1, 2, 1] D
+
+strategy 855 
+ddC 
+[2, 1, 2, 1] Strategy
+[4, 2, 2, 2] C
+[3, 1, 2, 1] D
+
+strategy 856 
+ddC 
+[2, 1, 2, 1] Strategy
+[4, 2, 3, 2] C
+[3, 1, 2, 1] D
+
+strategy 857 
+ddC 
+[2, 1, 2, 1] Strategy
+[1, 2, 4, 2] C
+[3, 1, 2, 1] D
+
+strategy 858 
+ddC 
+[2, 1, 2, 1] Strategy
+[3, 2, 4, 2] C
+[3, 1, 2, 1] D
+
+strategy 859 
+ddC 
+[2, 2, 1, 2] Strategy
+[4, 1, 3, 2] C
+[2, 3, 1, 1] D
+
+strategy 860 
+ddC 
+[2, 2, 1, 2] Strategy
+[4, 2, 3, 2] C
+[2, 3, 1, 1] D
+
+strategy 861 
+ddC 
+[2, 2, 1, 2] Strategy
+[4, 3, 3, 2] C
+[2, 3, 1, 1] D
+
+strategy 862 
+ddC 
+[2, 2, 1, 2] Strategy
+[1, 4, 3, 2] C
+[2, 3, 1, 1] D
+
+strategy 863 
+ddC 
+[2, 2, 1, 2] Strategy
+[2, 4, 3, 2] C
+[2, 3, 1, 1] D
+
+strategy 864 
+ddC 
+[2, 2, 1, 2] Strategy
+[3, 4, 3, 2] C
+[2, 3, 1, 1] D
+
+strategy 865 
+ddC 
+[2, 2, 1, 2] Strategy
+[4, 4, 3, 2] C
+[2, 3, 1, 1] D
+
+strategy 866 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 1, 2] C
+[3, 1, 2, 1] D
+
+strategy 867 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 1, 2] C
+[3, 4, 2, 1] D
+
+strategy 868 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 1, 2] C
+[3, 4, 2, 1] D
+
+strategy 869 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 1, 2] C
+[3, 4, 2, 1] D
+
+strategy 870 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 1, 2] C
+[3, 4, 2, 1] D
+
+strategy 871 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 2, 2] C
+[3, 1, 2, 1] D
+
+strategy 872 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 2, 2] C
+[3, 4, 2, 1] D
+
+strategy 873 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 2, 2] C
+[3, 4, 2, 1] D
+
+strategy 874 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 2, 2] C
+[3, 4, 2, 1] D
+
+strategy 875 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 2, 2] C
+[3, 4, 2, 1] D
+
+strategy 876 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 3, 2] C
+[3, 1, 2, 1] D
+
+strategy 877 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 3, 2] C
+[3, 4, 2, 1] D
+
+strategy 878 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 3, 2] C
+[3, 4, 2, 1] D
+
+strategy 879 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 3, 2] C
+[3, 4, 2, 1] D
+
+strategy 880 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 3, 2] C
+[3, 4, 2, 1] D
+
+strategy 881 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 4, 2] C
+[3, 1, 2, 1] D
+
+strategy 882 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 4, 2] C
+[3, 1, 2, 1] D
+
+strategy 883 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 4, 2] C
+[3, 1, 2, 1] D
+
+strategy 884 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 4, 2] C
+[3, 1, 2, 1] D
+
+strategy 885 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 4, 2] C
+[3, 4, 2, 1] D
+
+strategy 886 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 4, 2] C
+[3, 4, 2, 1] D
+
+strategy 887 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 4, 2] C
+[3, 4, 2, 1] D
+
+strategy 888 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 4, 2] C
+[3, 4, 2, 1] D
+
+strategy 889 
+ddC 
+[2, 2, 1, 2] Strategy
+[1, 1, 3, 2] C
+[2, 3, 4, 1] D
+
+strategy 890 
+ddC 
+[2, 2, 1, 2] Strategy
+[2, 1, 3, 2] C
+[2, 3, 4, 1] D
+
+strategy 891 
+ddC 
+[2, 2, 1, 2] Strategy
+[3, 1, 3, 2] C
+[2, 3, 4, 1] D
+
+strategy 892 
+ddC 
+[2, 2, 1, 2] Strategy
+[4, 1, 3, 2] C
+[2, 3, 4, 1] D
+
+strategy 893 
+ddC 
+[2, 2, 1, 2] Strategy
+[1, 2, 3, 2] C
+[2, 3, 4, 1] D
+
+strategy 894 
+ddC 
+[2, 2, 1, 2] Strategy
+[2, 2, 3, 2] C
+[2, 3, 4, 1] D
+
+strategy 895 
+ddC 
+[2, 2, 1, 2] Strategy
+[3, 2, 3, 2] C
+[2, 3, 4, 1] D
+
+strategy 896 
+ddC 
+[2, 2, 1, 2] Strategy
+[4, 2, 3, 2] C
+[2, 3, 4, 1] D
+
+strategy 897 
+ddC 
+[2, 2, 1, 2] Strategy
+[1, 3, 3, 2] C
+[2, 3, 4, 1] D
+
+strategy 898 
+ddC 
+[2, 2, 1, 2] Strategy
+[2, 3, 3, 2] C
+[2, 3, 4, 1] D
+
+strategy 899 
+ddC 
+[2, 2, 1, 2] Strategy
+[3, 3, 3, 2] C
+[2, 3, 4, 1] D
+
+strategy 900 
+ddC 
+[2, 2, 1, 2] Strategy
+[4, 3, 3, 2] C
+[2, 3, 4, 1] D
+
+strategy 901 
+ddC 
+[2, 2, 1, 2] Strategy
+[1, 4, 3, 2] C
+[2, 3, 4, 1] D
+
+strategy 902 
+ddC 
+[2, 2, 1, 2] Strategy
+[2, 4, 3, 2] C
+[2, 3, 4, 1] D
+
+strategy 903 
+ddC 
+[2, 2, 1, 2] Strategy
+[3, 4, 3, 2] C
+[2, 3, 4, 1] D
+
+strategy 904 
+ddC 
+[2, 2, 1, 2] Strategy
+[4, 4, 3, 2] C
+[2, 3, 4, 1] D
+
+strategy 905 
+ddC 
+[2, 2, 1, 1] Strategy
+[4, 1, 3, 4] C
+[2, 3, 1, 1] D
+
+strategy 906 
+ddC 
+[2, 2, 1, 1] Strategy
+[4, 2, 3, 4] C
+[2, 3, 1, 1] D
+
+strategy 907 
+ddC 
+[2, 2, 1, 1] Strategy
+[4, 3, 3, 4] C
+[2, 3, 1, 1] D
+
+strategy 908 
+ddC 
+[2, 2, 1, 1] Strategy
+[1, 4, 3, 4] C
+[2, 3, 1, 1] D
+
+strategy 909 
+ddC 
+[2, 2, 1, 1] Strategy
+[2, 4, 3, 4] C
+[2, 3, 1, 1] D
+
+strategy 910 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 4, 3, 4] C
+[2, 3, 1, 1] D
+
+strategy 911 
+ddC 
+[2, 2, 1, 1] Strategy
+[4, 4, 3, 4] C
+[2, 3, 1, 1] D
+
+strategy 912 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 1, 3, 4] C
+[2, 4, 1, 1] D
+
+strategy 913 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 2, 3, 4] C
+[2, 4, 1, 1] D
+
+strategy 914 
+ddC 
+[2, 2, 1, 1] Strategy
+[1, 3, 3, 4] C
+[2, 4, 1, 1] D
+
+strategy 915 
+ddC 
+[2, 2, 1, 1] Strategy
+[2, 3, 3, 4] C
+[2, 4, 1, 1] D
+
+strategy 916 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 3, 3, 4] C
+[2, 4, 1, 1] D
+
+strategy 917 
+ddC 
+[2, 2, 1, 1] Strategy
+[4, 3, 3, 4] C
+[2, 4, 1, 1] D
+
+strategy 918 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 4, 3, 4] C
+[2, 4, 1, 1] D
+
+strategy 919 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 1, 3, 4] C
+[2, 4, 1, 1] D
+
+strategy 920 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 2, 3, 4] C
+[2, 4, 1, 1] D
+
+strategy 921 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 3, 3, 4] C
+[2, 4, 1, 1] D
+
+strategy 922 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 3, 3, 4] C
+[2, 4, 1, 1] D
+
+strategy 923 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 3, 3, 4] C
+[2, 4, 1, 1] D
+
+strategy 924 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 3, 3, 4] C
+[2, 4, 1, 1] D
+
+strategy 925 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 4, 3, 4] C
+[2, 4, 1, 1] D
+
+strategy 926 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 1, 1, 4] C
+[2, 4, 2, 1] D
+
+strategy 927 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 2, 1, 4] C
+[2, 4, 2, 1] D
+
+strategy 928 
+ddC 
+[2, 2, 1, 1] Strategy
+[1, 3, 1, 4] C
+[2, 4, 2, 1] D
+
+strategy 929 
+ddC 
+[2, 2, 1, 1] Strategy
+[2, 3, 1, 4] C
+[2, 4, 2, 1] D
+
+strategy 930 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 3, 1, 4] C
+[2, 4, 2, 1] D
+
+strategy 931 
+ddC 
+[2, 2, 1, 1] Strategy
+[4, 3, 1, 4] C
+[2, 4, 2, 1] D
+
+strategy 932 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 4, 1, 4] C
+[2, 4, 2, 1] D
+
+strategy 933 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 1, 1, 4] C
+[2, 4, 2, 1] D
+
+strategy 934 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 2, 1, 4] C
+[2, 4, 2, 1] D
+
+strategy 935 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 3, 1, 4] C
+[2, 4, 2, 1] D
+
+strategy 936 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 3, 1, 4] C
+[2, 4, 2, 1] D
+
+strategy 937 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 3, 1, 4] C
+[2, 4, 2, 1] D
+
+strategy 938 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 4, 1, 4] C
+[2, 4, 2, 1] D
+
+strategy 939 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 1, 2, 4] C
+[2, 4, 2, 1] D
+
+strategy 940 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 2, 2, 4] C
+[2, 4, 2, 1] D
+
+strategy 941 
+ddC 
+[2, 2, 1, 1] Strategy
+[1, 3, 2, 4] C
+[2, 4, 2, 1] D
+
+strategy 942 
+ddC 
+[2, 2, 1, 1] Strategy
+[2, 3, 2, 4] C
+[2, 4, 2, 1] D
+
+strategy 943 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 3, 2, 4] C
+[2, 4, 2, 1] D
+
+strategy 944 
+ddC 
+[2, 2, 1, 1] Strategy
+[4, 3, 2, 4] C
+[2, 4, 2, 1] D
+
+strategy 945 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 4, 2, 4] C
+[2, 4, 2, 1] D
+
+strategy 946 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 1, 2, 4] C
+[2, 4, 2, 1] D
+
+strategy 947 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 2, 2, 4] C
+[2, 4, 2, 1] D
+
+strategy 948 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 3, 2, 4] C
+[2, 4, 2, 1] D
+
+strategy 949 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 3, 2, 4] C
+[2, 4, 2, 1] D
+
+strategy 950 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 3, 2, 4] C
+[2, 4, 2, 1] D
+
+strategy 951 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 4] C
+[2, 4, 2, 1] D
+
+strategy 952 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 1, 3, 4] C
+[2, 4, 2, 1] D
+
+strategy 953 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 2, 3, 4] C
+[2, 4, 2, 1] D
+
+strategy 954 
+ddC 
+[2, 2, 1, 1] Strategy
+[1, 3, 3, 4] C
+[2, 4, 2, 1] D
+
+strategy 955 
+ddC 
+[2, 2, 1, 1] Strategy
+[2, 3, 3, 4] C
+[2, 4, 2, 1] D
+
+strategy 956 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 3, 3, 4] C
+[2, 4, 2, 1] D
+
+strategy 957 
+ddC 
+[2, 2, 1, 1] Strategy
+[4, 3, 3, 4] C
+[2, 4, 2, 1] D
+
+strategy 958 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 4, 3, 4] C
+[2, 4, 2, 1] D
+
+strategy 959 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 3, 3, 4] C
+[2, 4, 2, 1] D
+
+strategy 960 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 3, 3, 4] C
+[2, 4, 2, 1] D
+
+strategy 961 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 3, 3, 4] C
+[2, 4, 2, 1] D
+
+strategy 962 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 1, 4, 4] C
+[2, 4, 2, 1] D
+
+strategy 963 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 2, 4, 4] C
+[2, 4, 2, 1] D
+
+strategy 964 
+ddC 
+[2, 2, 1, 1] Strategy
+[1, 3, 4, 4] C
+[2, 4, 2, 1] D
+
+strategy 965 
+ddC 
+[2, 2, 1, 1] Strategy
+[2, 3, 4, 4] C
+[2, 4, 2, 1] D
+
+strategy 966 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 3, 4, 4] C
+[2, 4, 2, 1] D
+
+strategy 967 
+ddC 
+[2, 2, 1, 1] Strategy
+[4, 3, 4, 4] C
+[2, 4, 2, 1] D
+
+strategy 968 
+ddC 
+[2, 2, 1, 1] Strategy
+[3, 4, 4, 4] C
+[2, 4, 2, 1] D
+
+strategy 969 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 4] C
+[2, 4, 2, 1] D
+
+strategy 970 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 4] C
+[2, 4, 2, 1] D
+
+strategy 971 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 3, 4, 4] C
+[2, 4, 2, 1] D
+
+strategy 972 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 4] C
+[2, 4, 2, 1] D
+
+strategy 973 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 3, 4, 4] C
+[2, 4, 2, 1] D
+
+strategy 974 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 4, 4, 4] C
+[2, 4, 2, 1] D
+
+strategy 975 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 1, 1, 4] C
+[2, 4, 3, 1] D
+
+strategy 976 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 2, 1, 4] C
+[2, 4, 3, 1] D
+
+strategy 977 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 3, 1, 4] C
+[2, 4, 3, 1] D
+
+strategy 978 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 3, 1, 4] C
+[2, 4, 3, 1] D
+
+strategy 979 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 3, 1, 4] C
+[2, 4, 3, 1] D
+
+strategy 980 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 3, 1, 4] C
+[2, 4, 3, 1] D
+
+strategy 981 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 4, 1, 4] C
+[2, 4, 3, 1] D
+
+strategy 982 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 1, 2, 4] C
+[2, 4, 3, 1] D
+
+strategy 983 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 2, 2, 4] C
+[2, 4, 3, 1] D
+
+strategy 984 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 3, 2, 4] C
+[2, 4, 3, 1] D
+
+strategy 985 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 3, 2, 4] C
+[2, 4, 3, 1] D
+
+strategy 986 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 3, 2, 4] C
+[2, 4, 3, 1] D
+
+strategy 987 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 3, 2, 4] C
+[2, 4, 3, 1] D
+
+strategy 988 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 4] C
+[2, 4, 3, 1] D
+
+strategy 989 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 1, 3, 4] C
+[2, 4, 3, 1] D
+
+strategy 990 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 2, 3, 4] C
+[2, 4, 3, 1] D
+
+strategy 991 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 3, 3, 4] C
+[2, 4, 3, 1] D
+
+strategy 992 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 3, 3, 4] C
+[2, 4, 3, 1] D
+
+strategy 993 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 3, 3, 4] C
+[2, 4, 3, 1] D
+
+strategy 994 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 3, 3, 4] C
+[2, 4, 3, 1] D
+
+strategy 995 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 4, 3, 4] C
+[2, 4, 3, 1] D
+
+strategy 996 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 4] C
+[2, 4, 3, 1] D
+
+strategy 997 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 4] C
+[2, 4, 3, 1] D
+
+strategy 998 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 3, 4, 4] C
+[2, 4, 3, 1] D
+
+strategy 999 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 4] C
+[2, 4, 3, 1] D
+
+strategy 1000 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 3, 4, 4] C
+[2, 4, 3, 1] D
+
+strategy 1001 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 3, 4, 4] C
+[2, 4, 3, 1] D
+
+strategy 1002 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 4, 4, 4] C
+[2, 4, 3, 1] D
+
+strategy 1003 
+ddC 
+[2, 2, 1, 1] Strategy
+[1, 3, 1, 4] C
+[2, 4, 4, 1] D
+
+strategy 1004 
+ddC 
+[2, 2, 1, 1] Strategy
+[2, 3, 1, 4] C
+[2, 4, 4, 1] D
+
+strategy 1005 
+ddC 
+[2, 2, 1, 1] Strategy
+[4, 3, 1, 4] C
+[2, 4, 4, 1] D
+
+strategy 1006 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 2, 1, 4] C
+[2, 4, 4, 1] D
+
+strategy 1007 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 2, 1, 4] C
+[3, 4, 4, 1] D
+
+strategy 1008 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 3, 1, 4] C
+[2, 4, 4, 1] D
+
+strategy 1009 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 3, 1, 4] C
+[2, 4, 4, 1] D
+
+strategy 1010 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 3, 1, 4] C
+[2, 4, 4, 1] D
+
+strategy 1011 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 3, 1, 4] C
+[2, 4, 4, 1] D
+
+strategy 1012 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 3, 1, 4] C
+[3, 4, 4, 1] D
+
+strategy 1013 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 4, 1, 4] C
+[2, 4, 4, 1] D
+
+strategy 1014 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 4, 1, 4] C
+[3, 4, 4, 1] D
+
+strategy 1015 
+ddC 
+[2, 2, 1, 1] Strategy
+[1, 3, 2, 4] C
+[2, 4, 4, 1] D
+
+strategy 1016 
+ddC 
+[2, 2, 1, 1] Strategy
+[2, 3, 2, 4] C
+[2, 4, 4, 1] D
+
+strategy 1017 
+ddC 
+[2, 2, 1, 1] Strategy
+[4, 3, 2, 4] C
+[2, 4, 4, 1] D
+
+strategy 1018 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 3, 2, 4] C
+[3, 1, 4, 1] D
+
+strategy 1019 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 3, 2, 4] C
+[3, 1, 4, 1] D
+
+strategy 1020 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 3, 2, 4] C
+[3, 1, 4, 1] D
+
+strategy 1021 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 3, 2, 4] C
+[3, 1, 4, 1] D
+
+strategy 1022 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 3, 2, 4] C
+[3, 2, 4, 1] D
+
+strategy 1023 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 3, 2, 4] C
+[3, 2, 4, 1] D
+
+strategy 1024 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 3, 2, 4] C
+[3, 2, 4, 1] D
+
+strategy 1025 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 3, 2, 4] C
+[3, 2, 4, 1] D
+
+strategy 1026 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 3, 2, 4] C
+[3, 3, 4, 1] D
+
+strategy 1027 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 3, 2, 4] C
+[3, 3, 4, 1] D
+
+strategy 1028 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 3, 2, 4] C
+[3, 3, 4, 1] D
+
+strategy 1029 
+ddC 
+[2, 1, 2, 1] Strategy
+[1, 2, 2, 4] C
+[3, 4, 4, 1] D
+
+strategy 1030 
+ddC 
+[2, 1, 2, 1] Strategy
+[3, 2, 2, 4] C
+[3, 4, 4, 1] D
+
+strategy 1031 
+ddC 
+[2, 1, 2, 1] Strategy
+[4, 2, 2, 4] C
+[3, 4, 4, 1] D
+
+strategy 1032 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 3, 2, 4] C
+[2, 4, 4, 1] D
+
+strategy 1033 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 3, 2, 4] C
+[2, 4, 4, 1] D
+
+strategy 1034 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 3, 2, 4] C
+[2, 4, 4, 1] D
+
+strategy 1035 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 3, 2, 4] C
+[2, 4, 4, 1] D
+
+strategy 1036 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 3, 2, 4] C
+[3, 4, 4, 1] D
+
+strategy 1037 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 3, 2, 4] C
+[3, 4, 4, 1] D
+
+strategy 1038 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 3, 2, 4] C
+[3, 4, 4, 1] D
+
+strategy 1039 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 3, 2, 4] C
+[3, 4, 4, 1] D
+
+strategy 1040 
+ddC 
+[2, 1, 2, 1] Strategy
+[1, 4, 2, 4] C
+[3, 4, 4, 1] D
+
+strategy 1041 
+ddC 
+[2, 1, 2, 1] Strategy
+[3, 4, 2, 4] C
+[3, 4, 4, 1] D
+
+strategy 1042 
+ddC 
+[2, 1, 2, 1] Strategy
+[4, 4, 2, 4] C
+[3, 4, 4, 1] D
+
+strategy 1043 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 4] C
+[2, 4, 4, 1] D
+
+strategy 1044 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 4, 2, 4] C
+[3, 4, 4, 1] D
+
+strategy 1045 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 4, 2, 4] C
+[3, 4, 4, 1] D
+
+strategy 1046 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 4] C
+[3, 4, 4, 1] D
+
+strategy 1047 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 4, 2, 4] C
+[3, 4, 4, 1] D
+
+strategy 1048 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 2, 3, 4] C
+[3, 1, 4, 1] D
+
+strategy 1049 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 2, 3, 4] C
+[3, 2, 4, 1] D
+
+strategy 1050 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 2, 3, 4] C
+[2, 4, 4, 1] D
+
+strategy 1051 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 2, 3, 4] C
+[3, 4, 4, 1] D
+
+strategy 1052 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 4, 3, 4] C
+[2, 4, 4, 1] D
+
+strategy 1053 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 4, 3, 4] C
+[3, 4, 4, 1] D
+
+strategy 1054 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 1, 4] C
+[3, 4, 2, 1] D
+
+strategy 1055 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 1, 4] C
+[3, 4, 2, 1] D
+
+strategy 1056 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 1, 4] C
+[3, 4, 2, 1] D
+
+strategy 1057 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 1, 4] C
+[3, 4, 2, 1] D
+
+strategy 1058 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 2, 4] C
+[3, 4, 2, 1] D
+
+strategy 1059 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 2, 4] C
+[3, 4, 2, 1] D
+
+strategy 1060 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 2, 4] C
+[3, 4, 2, 1] D
+
+strategy 1061 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 2, 4] C
+[3, 4, 2, 1] D
+
+strategy 1062 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 3, 4] C
+[3, 4, 2, 1] D
+
+strategy 1063 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 3, 4] C
+[3, 4, 2, 1] D
+
+strategy 1064 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 3, 4] C
+[3, 4, 2, 1] D
+
+strategy 1065 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 3, 4] C
+[3, 4, 2, 1] D
+
+strategy 1066 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 4, 4] C
+[3, 4, 2, 1] D
+
+strategy 1067 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 4, 4] C
+[3, 4, 2, 1] D
+
+strategy 1068 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 4, 4] C
+[3, 4, 2, 1] D
+
+strategy 1069 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 4, 4] C
+[3, 4, 2, 1] D
+
+strategy 1070 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 1, 1] C
+[4, 3, 3, 2] D
+
+strategy 1071 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 1, 1] C
+[4, 3, 3, 2] D
+
+strategy 1072 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 1, 1] C
+[4, 3, 3, 2] D
+
+strategy 1073 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 1, 1] C
+[4, 3, 3, 2] D
+
+strategy 1074 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 2, 1] C
+[4, 3, 3, 2] D
+
+strategy 1075 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 2, 1] C
+[4, 3, 3, 2] D
+
+strategy 1076 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 2, 1] C
+[4, 3, 3, 2] D
+
+strategy 1077 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 2, 1] C
+[4, 3, 3, 2] D
+
+strategy 1078 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 3, 1] C
+[4, 3, 3, 2] D
+
+strategy 1079 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 3, 1] C
+[4, 3, 3, 2] D
+
+strategy 1080 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 3, 1] C
+[4, 3, 3, 2] D
+
+strategy 1081 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 3, 1] C
+[4, 3, 3, 2] D
+
+strategy 1082 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 4, 1] C
+[4, 3, 3, 2] D
+
+strategy 1083 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 4, 1] C
+[4, 3, 3, 2] D
+
+strategy 1084 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 4, 1] C
+[4, 3, 3, 2] D
+
+strategy 1085 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 4, 1] C
+[4, 3, 3, 2] D
+
+strategy 1086 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 1, 1] C
+[4, 3, 4, 2] D
+
+strategy 1087 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 1, 1] C
+[4, 3, 4, 2] D
+
+strategy 1088 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 1, 1] C
+[4, 3, 4, 2] D
+
+strategy 1089 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 2, 1] C
+[4, 3, 4, 2] D
+
+strategy 1090 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 2, 1] C
+[4, 3, 4, 2] D
+
+strategy 1091 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 2, 1] C
+[4, 3, 4, 2] D
+
+strategy 1092 
+ddC 
+[2, 1, 1, 2] Strategy
+[3, 2, 3, 1] C
+[4, 1, 4, 2] D
+
+strategy 1093 
+ddC 
+[2, 2, 1, 2] Strategy
+[2, 2, 3, 1] C
+[2, 3, 4, 2] D
+
+strategy 1094 
+ddC 
+[2, 2, 1, 2] Strategy
+[3, 2, 3, 1] C
+[2, 3, 4, 2] D
+
+strategy 1095 
+ddC 
+[2, 2, 1, 2] Strategy
+[4, 2, 3, 1] C
+[2, 3, 4, 2] D
+
+strategy 1096 
+ddC 
+[2, 2, 1, 2] Strategy
+[2, 3, 3, 1] C
+[2, 3, 4, 2] D
+
+strategy 1097 
+ddC 
+[2, 2, 1, 2] Strategy
+[3, 3, 3, 1] C
+[2, 3, 4, 2] D
+
+strategy 1098 
+ddC 
+[2, 2, 1, 2] Strategy
+[4, 3, 3, 1] C
+[2, 3, 4, 2] D
+
+strategy 1099 
+ddC 
+[2, 2, 1, 2] Strategy
+[2, 4, 3, 1] C
+[2, 3, 4, 2] D
+
+strategy 1100 
+ddC 
+[2, 2, 1, 2] Strategy
+[3, 4, 3, 1] C
+[2, 3, 4, 2] D
+
+strategy 1101 
+ddC 
+[2, 2, 1, 2] Strategy
+[4, 4, 3, 1] C
+[2, 3, 4, 2] D
+
+strategy 1102 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 3, 1] C
+[4, 3, 4, 2] D
+
+strategy 1103 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 3, 1] C
+[4, 3, 4, 2] D
+
+strategy 1104 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 3, 1] C
+[4, 3, 4, 2] D
+
+strategy 1105 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 4, 1] C
+[4, 3, 4, 2] D
+
+strategy 1106 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 4, 1] C
+[4, 3, 4, 2] D
+
+strategy 1107 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 4, 1] C
+[4, 3, 4, 2] D
+
+strategy 1108 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 1, 2] C
+[4, 3, 3, 2] D
+
+strategy 1109 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 1, 2] C
+[4, 3, 3, 2] D
+
+strategy 1110 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 1, 2] C
+[4, 3, 3, 2] D
+
+strategy 1111 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 1, 2] C
+[4, 3, 3, 2] D
+
+strategy 1112 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 2, 2] C
+[4, 3, 3, 2] D
+
+strategy 1113 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 2, 2] C
+[4, 3, 3, 2] D
+
+strategy 1114 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 2, 2] C
+[4, 3, 3, 2] D
+
+strategy 1115 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 2, 2] C
+[4, 3, 3, 2] D
+
+strategy 1116 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 3, 2] C
+[4, 3, 3, 2] D
+
+strategy 1117 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 3, 2] C
+[4, 3, 3, 2] D
+
+strategy 1118 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 3, 2] C
+[4, 3, 3, 2] D
+
+strategy 1119 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 3, 2] C
+[4, 3, 3, 2] D
+
+strategy 1120 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 4, 2] C
+[4, 3, 3, 2] D
+
+strategy 1121 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 4, 2] C
+[4, 3, 3, 2] D
+
+strategy 1122 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 4, 2] C
+[4, 3, 3, 2] D
+
+strategy 1123 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 4, 2] C
+[4, 3, 3, 2] D
+
+strategy 1124 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 2, 2] C
+[4, 3, 4, 2] D
+
+strategy 1125 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 2, 2] C
+[4, 3, 4, 2] D
+
+strategy 1126 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 2, 2] C
+[4, 3, 4, 2] D
+
+strategy 1127 
+ddC 
+[2, 1, 1, 2] Strategy
+[3, 2, 3, 2] C
+[4, 1, 4, 2] D
+
+strategy 1128 
+ddC 
+[2, 2, 1, 2] Strategy
+[1, 2, 3, 2] C
+[2, 3, 4, 2] D
+
+strategy 1129 
+ddC 
+[2, 2, 1, 2] Strategy
+[3, 2, 3, 2] C
+[2, 3, 4, 2] D
+
+strategy 1130 
+ddC 
+[2, 2, 1, 2] Strategy
+[4, 2, 3, 2] C
+[2, 3, 4, 2] D
+
+strategy 1131 
+ddC 
+[2, 2, 1, 2] Strategy
+[1, 3, 3, 2] C
+[2, 3, 4, 2] D
+
+strategy 1132 
+ddC 
+[2, 2, 1, 2] Strategy
+[3, 3, 3, 2] C
+[2, 3, 4, 2] D
+
+strategy 1133 
+ddC 
+[2, 2, 1, 2] Strategy
+[4, 3, 3, 2] C
+[2, 3, 4, 2] D
+
+strategy 1134 
+ddC 
+[2, 2, 1, 2] Strategy
+[1, 4, 3, 2] C
+[2, 3, 4, 2] D
+
+strategy 1135 
+ddC 
+[2, 2, 1, 2] Strategy
+[3, 4, 3, 2] C
+[2, 3, 4, 2] D
+
+strategy 1136 
+ddC 
+[2, 2, 1, 2] Strategy
+[4, 4, 3, 2] C
+[2, 3, 4, 2] D
+
+strategy 1137 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 3, 2] C
+[4, 3, 4, 2] D
+
+strategy 1138 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 3, 2] C
+[4, 3, 4, 2] D
+
+strategy 1139 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 3, 2] C
+[4, 3, 4, 2] D
+
+strategy 1140 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 4, 3] C
+[4, 3, 1, 2] D
+
+strategy 1141 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 4, 3] C
+[4, 3, 1, 2] D
+
+strategy 1142 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 4, 3] C
+[4, 3, 1, 2] D
+
+strategy 1143 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 4, 3] C
+[4, 3, 1, 2] D
+
+strategy 1144 
+ddC 
+[2, 1, 1, 2] Strategy
+[1, 2, 3, 3] C
+[4, 1, 2, 2] D
+
+strategy 1145 
+ddC 
+[2, 1, 1, 2] Strategy
+[2, 2, 3, 3] C
+[4, 1, 2, 2] D
+
+strategy 1146 
+ddC 
+[2, 1, 1, 2] Strategy
+[4, 2, 3, 3] C
+[4, 1, 2, 2] D
+
+strategy 1147 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 1, 3] C
+[4, 3, 3, 2] D
+
+strategy 1148 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 1, 3] C
+[4, 3, 3, 2] D
+
+strategy 1149 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 1, 3] C
+[4, 3, 3, 2] D
+
+strategy 1150 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 1, 3] C
+[4, 3, 3, 2] D
+
+strategy 1151 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 2, 3] C
+[4, 3, 3, 2] D
+
+strategy 1152 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 2, 3] C
+[4, 3, 3, 2] D
+
+strategy 1153 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 2, 3] C
+[4, 3, 3, 2] D
+
+strategy 1154 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 2, 3] C
+[4, 3, 3, 2] D
+
+strategy 1155 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 3, 3] C
+[4, 3, 3, 2] D
+
+strategy 1156 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 3, 3] C
+[4, 3, 3, 2] D
+
+strategy 1157 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 3, 3] C
+[4, 3, 3, 2] D
+
+strategy 1158 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 3, 3] C
+[4, 3, 3, 2] D
+
+strategy 1159 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 4, 3] C
+[4, 3, 3, 2] D
+
+strategy 1160 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 4, 3] C
+[4, 3, 3, 2] D
+
+strategy 1161 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 4, 3] C
+[4, 3, 3, 2] D
+
+strategy 1162 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 4, 3] C
+[4, 3, 3, 2] D
+
+strategy 1163 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 2, 3] C
+[4, 3, 4, 2] D
+
+strategy 1164 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 2, 3] C
+[4, 3, 4, 2] D
+
+strategy 1165 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 2, 3] C
+[4, 3, 4, 2] D
+
+strategy 1166 
+ddC 
+[2, 1, 1, 2] Strategy
+[1, 2, 3, 3] C
+[4, 1, 4, 2] D
+
+strategy 1167 
+ddC 
+[2, 1, 1, 2] Strategy
+[2, 2, 3, 3] C
+[4, 1, 4, 2] D
+
+strategy 1168 
+ddC 
+[2, 1, 1, 2] Strategy
+[3, 2, 3, 3] C
+[4, 1, 4, 2] D
+
+strategy 1169 
+ddC 
+[2, 1, 1, 2] Strategy
+[4, 2, 3, 3] C
+[4, 1, 4, 2] D
+
+strategy 1170 
+ddC 
+[2, 2, 1, 2] Strategy
+[1, 2, 3, 3] C
+[2, 3, 4, 2] D
+
+strategy 1171 
+ddC 
+[2, 2, 1, 2] Strategy
+[2, 2, 3, 3] C
+[2, 3, 4, 2] D
+
+strategy 1172 
+ddC 
+[2, 2, 1, 2] Strategy
+[4, 2, 3, 3] C
+[2, 3, 4, 2] D
+
+strategy 1173 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 3, 3] C
+[4, 3, 4, 2] D
+
+strategy 1174 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 3, 3] C
+[4, 3, 4, 2] D
+
+strategy 1175 
+ddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 3, 3] C
+[4, 3, 4, 2] D
+
+strategy 1176 
+ddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 4, 3] C
+[4, 3, 4, 2] D
+
+strategy 1177 
+ddC 
+[2, 1, 2, 2] Strategy
+[2, 2, 4, 3] C
+[4, 3, 4, 2] D
+
+strategy 1178 
+ddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 4, 3] C
+[4, 3, 4, 2] D
+
+strategy 1179 
+ddC 
+[2, 2, 1, 1] Strategy
+[4, 2, 3, 4] C
+[2, 3, 1, 2] D
+
+strategy 1180 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 2, 3, 4] C
+[3, 1, 4, 2] D
+
+strategy 1181 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 2, 3, 4] C
+[3, 1, 4, 2] D
+
+strategy 1182 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 2, 3, 4] C
+[3, 1, 4, 2] D
+
+strategy 1183 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 2, 3, 4] C
+[3, 1, 4, 2] D
+
+strategy 1184 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 1, 3, 4] C
+[3, 2, 4, 2] D
+
+strategy 1185 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 1, 3, 4] C
+[3, 2, 4, 2] D
+
+strategy 1186 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 1, 3, 4] C
+[3, 2, 4, 2] D
+
+strategy 1187 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 1, 3, 4] C
+[3, 2, 4, 2] D
+
+strategy 1188 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 2, 3, 4] C
+[3, 2, 4, 2] D
+
+strategy 1189 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 2, 3, 4] C
+[3, 2, 4, 2] D
+
+strategy 1190 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 2, 3, 4] C
+[3, 2, 4, 2] D
+
+strategy 1191 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 2, 3, 4] C
+[3, 2, 4, 2] D
+
+strategy 1192 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 3, 3, 4] C
+[3, 2, 4, 2] D
+
+strategy 1193 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 3, 3, 4] C
+[3, 2, 4, 2] D
+
+strategy 1194 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 3, 3, 4] C
+[3, 2, 4, 2] D
+
+strategy 1195 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 3, 3, 4] C
+[3, 2, 4, 2] D
+
+strategy 1196 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 4, 3, 4] C
+[3, 2, 4, 2] D
+
+strategy 1197 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 4, 3, 4] C
+[3, 2, 4, 2] D
+
+strategy 1198 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 4, 3, 4] C
+[3, 2, 4, 2] D
+
+strategy 1199 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 4, 3, 4] C
+[3, 2, 4, 2] D
+
+strategy 1200 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 2, 3, 4] C
+[3, 3, 4, 2] D
+
+strategy 1201 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 2, 3, 4] C
+[3, 3, 4, 2] D
+
+strategy 1202 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 2, 3, 4] C
+[3, 3, 4, 2] D
+
+strategy 1203 
+ddC 
+[2, 2, 1, 2] Strategy
+[1, 2, 3, 4] C
+[2, 3, 4, 2] D
+
+strategy 1204 
+ddC 
+[2, 2, 1, 2] Strategy
+[2, 2, 3, 4] C
+[2, 3, 4, 2] D
+
+strategy 1205 
+ddC 
+[2, 2, 1, 2] Strategy
+[3, 2, 3, 4] C
+[2, 3, 4, 2] D
+
+strategy 1206 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 3, 2, 4] C
+[2, 4, 3, 3] D
+
+strategy 1207 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 3, 2, 4] C
+[2, 4, 3, 3] D
+
+strategy 1208 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 3, 2, 4] C
+[2, 4, 3, 3] D
+
+strategy 1209 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 3, 2, 4] C
+[2, 4, 3, 3] D
+
+strategy 1210 
+ddC 
+[2, 2, 2, 1] Strategy
+[1, 2, 3, 4] C
+[2, 4, 3, 3] D
+
+strategy 1211 
+ddC 
+[2, 2, 2, 1] Strategy
+[2, 2, 3, 4] C
+[2, 4, 3, 3] D
+
+strategy 1212 
+ddC 
+[2, 2, 2, 1] Strategy
+[3, 2, 3, 4] C
+[2, 4, 3, 3] D
+
+strategy 1213 
+ddC 
+[2, 2, 2, 1] Strategy
+[4, 2, 3, 4] C
+[2, 4, 3, 3] D
+
+strategy 1214 
+ddCC 
+[2, 1, 2, 1] Strategy
+[1, 4, 1, 2] C
+[3, 1, 2, 1] D
+
+strategy 1215 
+ddCC 
+[2, 1, 2, 1] Strategy
+[2, 4, 1, 2] C
+[3, 1, 2, 1] D
+
+strategy 1216 
+ddCC 
+[2, 1, 2, 1] Strategy
+[3, 4, 1, 2] C
+[3, 1, 2, 1] D
+
+strategy 1217 
+ddCC 
+[2, 1, 2, 1] Strategy
+[4, 4, 1, 2] C
+[3, 1, 2, 1] D
+
+strategy 1218 
+ddCC 
+[2, 1, 2, 1] Strategy
+[1, 4, 2, 2] C
+[3, 1, 2, 1] D
+
+strategy 1219 
+ddCC 
+[2, 1, 2, 1] Strategy
+[2, 4, 2, 2] C
+[3, 1, 2, 1] D
+
+strategy 1220 
+ddCC 
+[2, 1, 2, 1] Strategy
+[3, 4, 2, 2] C
+[3, 1, 2, 1] D
+
+strategy 1221 
+ddCC 
+[2, 1, 2, 1] Strategy
+[4, 4, 2, 2] C
+[3, 1, 2, 1] D
+
+strategy 1222 
+ddCC 
+[2, 1, 2, 1] Strategy
+[1, 4, 3, 2] C
+[3, 1, 2, 1] D
+
+strategy 1223 
+ddCC 
+[2, 1, 2, 1] Strategy
+[2, 4, 3, 2] C
+[3, 1, 2, 1] D
+
+strategy 1224 
+ddCC 
+[2, 1, 2, 1] Strategy
+[3, 4, 3, 2] C
+[3, 1, 2, 1] D
+
+strategy 1225 
+ddCC 
+[2, 1, 2, 1] Strategy
+[4, 4, 3, 2] C
+[3, 1, 2, 1] D
+
+strategy 1226 
+ddCC 
+[2, 1, 2, 1] Strategy
+[1, 4, 4, 2] C
+[3, 1, 2, 1] D
+
+strategy 1227 
+ddCC 
+[2, 1, 2, 1] Strategy
+[2, 4, 4, 2] C
+[3, 1, 2, 1] D
+
+strategy 1228 
+ddCC 
+[2, 1, 2, 1] Strategy
+[3, 4, 4, 2] C
+[3, 1, 2, 1] D
+
+strategy 1229 
+ddCC 
+[2, 1, 2, 1] Strategy
+[4, 4, 4, 2] C
+[3, 1, 2, 1] D
+
+strategy 1230 
+ddCC 
+[2, 1, 2, 1] Strategy
+[1, 4, 1, 2] C
+[3, 1, 4, 1] D
+
+strategy 1231 
+ddCC 
+[2, 1, 2, 1] Strategy
+[2, 4, 1, 2] C
+[3, 1, 4, 1] D
+
+strategy 1232 
+ddCC 
+[2, 1, 2, 1] Strategy
+[3, 4, 1, 2] C
+[3, 1, 4, 1] D
+
+strategy 1233 
+ddCC 
+[2, 1, 2, 1] Strategy
+[4, 4, 1, 2] C
+[3, 1, 4, 1] D
+
+strategy 1234 
+ddCC 
+[2, 1, 2, 1] Strategy
+[1, 4, 2, 2] C
+[3, 1, 4, 1] D
+
+strategy 1235 
+ddCC 
+[2, 1, 2, 1] Strategy
+[2, 4, 2, 2] C
+[3, 1, 4, 1] D
+
+strategy 1236 
+ddCC 
+[2, 1, 2, 1] Strategy
+[3, 4, 2, 2] C
+[3, 1, 4, 1] D
+
+strategy 1237 
+ddCC 
+[2, 1, 2, 1] Strategy
+[4, 4, 2, 2] C
+[3, 1, 4, 1] D
+
+strategy 1238 
+ddCC 
+[2, 1, 2, 1] Strategy
+[1, 4, 3, 2] C
+[3, 1, 4, 1] D
+
+strategy 1239 
+ddCC 
+[2, 1, 2, 1] Strategy
+[2, 4, 3, 2] C
+[3, 1, 4, 1] D
+
+strategy 1240 
+ddCC 
+[2, 1, 2, 1] Strategy
+[3, 4, 3, 2] C
+[3, 1, 4, 1] D
+
+strategy 1241 
+ddCC 
+[2, 1, 2, 1] Strategy
+[4, 4, 3, 2] C
+[3, 1, 4, 1] D
+
+strategy 1242 
+ddCC 
+[2, 1, 2, 1] Strategy
+[1, 4, 4, 2] C
+[3, 1, 4, 1] D
+
+strategy 1243 
+ddCC 
+[2, 1, 2, 1] Strategy
+[2, 4, 4, 2] C
+[3, 1, 4, 1] D
+
+strategy 1244 
+ddCC 
+[2, 1, 2, 1] Strategy
+[3, 4, 4, 2] C
+[3, 1, 4, 1] D
+
+strategy 1245 
+ddCC 
+[2, 1, 2, 1] Strategy
+[4, 4, 4, 2] C
+[3, 1, 4, 1] D
+
+strategy 1246 
+ddD 
+[2, 2, 2, 0] Strategy
+[4, 2, 1, 1] C
+[3, 2, 2, 1] D
+
+strategy 1247 
+ddD 
+[2, 2, 2, 0] Strategy
+[4, 3, 1, 1] C
+[3, 2, 2, 1] D
+
+strategy 1248 
+ddD 
+[2, 2, 2, 0] Strategy
+[1, 4, 1, 1] C
+[3, 2, 2, 1] D
+
+strategy 1249 
+ddD 
+[2, 2, 2, 0] Strategy
+[2, 4, 1, 1] C
+[3, 2, 2, 1] D
+
+strategy 1250 
+ddD 
+[2, 2, 2, 0] Strategy
+[3, 4, 1, 1] C
+[3, 2, 2, 1] D
+
+strategy 1251 
+ddD 
+[2, 2, 2, 0] Strategy
+[4, 4, 1, 1] C
+[3, 2, 2, 1] D
+
+strategy 1252 
+ddD 
+[2, 2, 2, 0] Strategy
+[4, 1, 2, 1] C
+[3, 2, 2, 1] D
+
+strategy 1253 
+ddD 
+[2, 2, 2, 0] Strategy
+[1, 4, 2, 1] C
+[3, 2, 2, 1] D
+
+strategy 1254 
+ddD 
+[2, 2, 2, 0] Strategy
+[2, 4, 2, 1] C
+[3, 2, 2, 1] D
+
+strategy 1255 
+ddD 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[3, 2, 2, 1] D
+
+strategy 1256 
+ddD 
+[2, 2, 2, 0] Strategy
+[4, 4, 2, 1] C
+[3, 2, 2, 1] D
+
+strategy 1257 
+ddD 
+[2, 2, 2, 0] Strategy
+[4, 1, 3, 1] C
+[3, 2, 2, 1] D
+
+strategy 1258 
+ddD 
+[2, 2, 2, 0] Strategy
+[1, 4, 3, 1] C
+[3, 2, 2, 1] D
+
+strategy 1259 
+ddD 
+[2, 2, 2, 0] Strategy
+[2, 4, 3, 1] C
+[3, 2, 2, 1] D
+
+strategy 1260 
+ddD 
+[2, 2, 2, 0] Strategy
+[3, 4, 3, 1] C
+[3, 2, 2, 1] D
+
+strategy 1261 
+ddD 
+[2, 2, 2, 0] Strategy
+[4, 4, 3, 1] C
+[3, 2, 2, 1] D
+
+strategy 1262 
+ddD 
+[2, 2, 2, 0] Strategy
+[1, 1, 4, 1] C
+[3, 2, 2, 1] D
+
+strategy 1263 
+ddD 
+[2, 2, 2, 0] Strategy
+[2, 1, 4, 1] C
+[3, 2, 2, 1] D
+
+strategy 1264 
+ddD 
+[2, 2, 2, 0] Strategy
+[3, 1, 4, 1] C
+[3, 2, 2, 1] D
+
+strategy 1265 
+ddD 
+[2, 2, 2, 0] Strategy
+[4, 1, 4, 1] C
+[3, 2, 2, 1] D
+
+strategy 1266 
+ddD 
+[2, 2, 2, 0] Strategy
+[1, 2, 4, 1] C
+[3, 2, 2, 1] D
+
+strategy 1267 
+ddD 
+[2, 2, 2, 0] Strategy
+[2, 2, 4, 1] C
+[3, 2, 2, 1] D
+
+strategy 1268 
+ddD 
+[2, 2, 2, 0] Strategy
+[3, 2, 4, 1] C
+[3, 2, 2, 1] D
+
+strategy 1269 
+ddD 
+[2, 2, 2, 0] Strategy
+[4, 2, 4, 1] C
+[3, 2, 2, 1] D
+
+strategy 1270 
+ddD 
+[2, 2, 2, 0] Strategy
+[1, 3, 4, 1] C
+[3, 2, 2, 1] D
+
+strategy 1271 
+ddD 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[3, 2, 2, 1] D
+
+strategy 1272 
+ddD 
+[2, 2, 2, 0] Strategy
+[3, 3, 4, 1] C
+[3, 2, 2, 1] D
+
+strategy 1273 
+ddD 
+[2, 2, 2, 0] Strategy
+[4, 3, 4, 1] C
+[3, 2, 2, 1] D
+
+strategy 1274 
+ddL 
+[2, 2, 0, 0] Strategy
+[1, 1, 1, 1] C
+[2, 3, 1, 1] D
+
+strategy 1275 
+ddL 
+[2, 2, 0, 0] Strategy
+[2, 1, 1, 1] C
+[2, 3, 1, 1] D
+
+strategy 1276 
+ddL 
+[2, 2, 0, 0] Strategy
+[3, 1, 1, 1] C
+[2, 3, 1, 1] D
+
+strategy 1277 
+ddL 
+[2, 2, 0, 0] Strategy
+[1, 2, 1, 1] C
+[2, 3, 1, 1] D
+
+strategy 1278 
+ddL 
+[2, 2, 0, 0] Strategy
+[2, 2, 1, 1] C
+[2, 3, 1, 1] D
+
+strategy 1279 
+ddL 
+[2, 2, 0, 0] Strategy
+[3, 2, 1, 1] C
+[2, 3, 1, 1] D
+
+strategy 1280 
+ddL 
+[2, 2, 0, 0] Strategy
+[1, 3, 1, 1] C
+[2, 3, 1, 1] D
+
+strategy 1281 
+ddL 
+[2, 2, 0, 0] Strategy
+[2, 3, 1, 1] C
+[2, 3, 1, 1] D
+
+strategy 1282 
+ddL 
+[2, 2, 0, 0] Strategy
+[3, 3, 1, 1] C
+[2, 3, 1, 1] D
+
+strategy 1283 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 1, 1, 1] C
+[2, 4, 1, 1] D
+
+strategy 1284 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 2, 1, 1] C
+[2, 4, 1, 1] D
+
+strategy 1285 
+ddL 
+[2, 2, 2, 0] Strategy
+[1, 3, 1, 1] C
+[2, 4, 1, 1] D
+
+strategy 1286 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 1, 1] C
+[2, 4, 1, 1] D
+
+strategy 1287 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 3, 1, 1] C
+[2, 4, 1, 1] D
+
+strategy 1288 
+ddL 
+[2, 2, 2, 0] Strategy
+[4, 3, 1, 1] C
+[2, 4, 1, 1] D
+
+strategy 1289 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 4, 1, 1] C
+[2, 4, 1, 1] D
+
+strategy 1290 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 1, 2, 1] C
+[2, 4, 1, 1] D
+
+strategy 1291 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 2, 2, 1] C
+[2, 4, 1, 1] D
+
+strategy 1292 
+ddL 
+[2, 2, 2, 0] Strategy
+[1, 3, 2, 1] C
+[2, 4, 1, 1] D
+
+strategy 1293 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[2, 4, 1, 1] D
+
+strategy 1294 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[2, 4, 1, 1] D
+
+strategy 1295 
+ddL 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[2, 4, 1, 1] D
+
+strategy 1296 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[2, 4, 1, 1] D
+
+strategy 1297 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 1, 3, 1] C
+[2, 4, 1, 1] D
+
+strategy 1298 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 2, 3, 1] C
+[2, 4, 1, 1] D
+
+strategy 1299 
+ddL 
+[2, 2, 2, 0] Strategy
+[1, 3, 3, 1] C
+[2, 4, 1, 1] D
+
+strategy 1300 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 3, 1] C
+[2, 4, 1, 1] D
+
+strategy 1301 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 3, 3, 1] C
+[2, 4, 1, 1] D
+
+strategy 1302 
+ddL 
+[2, 2, 2, 0] Strategy
+[4, 3, 3, 1] C
+[2, 4, 1, 1] D
+
+strategy 1303 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 4, 3, 1] C
+[2, 4, 1, 1] D
+
+strategy 1304 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 1, 4, 1] C
+[2, 4, 1, 1] D
+
+strategy 1305 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 2, 4, 1] C
+[2, 4, 1, 1] D
+
+strategy 1306 
+ddL 
+[2, 2, 2, 0] Strategy
+[1, 3, 4, 1] C
+[2, 4, 1, 1] D
+
+strategy 1307 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[2, 4, 1, 1] D
+
+strategy 1308 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 3, 4, 1] C
+[2, 4, 1, 1] D
+
+strategy 1309 
+ddL 
+[2, 2, 2, 0] Strategy
+[4, 3, 4, 1] C
+[2, 4, 1, 1] D
+
+strategy 1310 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 4, 4, 1] C
+[2, 4, 1, 1] D
+
+strategy 1311 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 1, 1, 1] C
+[2, 4, 2, 1] D
+
+strategy 1312 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 2, 1, 1] C
+[2, 4, 2, 1] D
+
+strategy 1313 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 1, 1] C
+[2, 4, 2, 1] D
+
+strategy 1314 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 3, 1, 1] C
+[2, 4, 2, 1] D
+
+strategy 1315 
+ddL 
+[2, 2, 2, 0] Strategy
+[4, 3, 1, 1] C
+[2, 4, 2, 1] D
+
+strategy 1316 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 4, 1, 1] C
+[2, 4, 2, 1] D
+
+strategy 1317 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 1, 2, 1] C
+[2, 4, 2, 1] D
+
+strategy 1318 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 2, 2, 1] C
+[2, 4, 2, 1] D
+
+strategy 1319 
+ddL 
+[2, 2, 2, 0] Strategy
+[1, 3, 2, 1] C
+[2, 4, 2, 1] D
+
+strategy 1320 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[2, 4, 2, 1] D
+
+strategy 1321 
+ddL 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[2, 4, 2, 1] D
+
+strategy 1322 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[2, 4, 2, 1] D
+
+strategy 1323 
+ddL 
+[2, 2, 2, 0] Strategy
+[1, 3, 3, 1] C
+[2, 4, 2, 1] D
+
+strategy 1324 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 3, 1] C
+[2, 4, 2, 1] D
+
+strategy 1325 
+ddL 
+[2, 2, 2, 0] Strategy
+[4, 3, 3, 1] C
+[2, 4, 2, 1] D
+
+strategy 1326 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 1, 4, 1] C
+[2, 4, 2, 1] D
+
+strategy 1327 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 2, 4, 1] C
+[2, 4, 2, 1] D
+
+strategy 1328 
+ddL 
+[2, 2, 2, 0] Strategy
+[1, 3, 4, 1] C
+[2, 4, 2, 1] D
+
+strategy 1329 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[2, 4, 2, 1] D
+
+strategy 1330 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 3, 4, 1] C
+[2, 4, 2, 1] D
+
+strategy 1331 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 4, 4, 1] C
+[2, 4, 2, 1] D
+
+strategy 1332 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 1, 1, 1] C
+[2, 4, 3, 1] D
+
+strategy 1333 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 2, 1, 1] C
+[2, 4, 3, 1] D
+
+strategy 1334 
+ddL 
+[2, 2, 2, 0] Strategy
+[1, 3, 1, 1] C
+[2, 4, 3, 1] D
+
+strategy 1335 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 1, 1] C
+[2, 4, 3, 1] D
+
+strategy 1336 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 3, 1, 1] C
+[2, 4, 3, 1] D
+
+strategy 1337 
+ddL 
+[2, 2, 2, 0] Strategy
+[4, 3, 1, 1] C
+[2, 4, 3, 1] D
+
+strategy 1338 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 4, 1, 1] C
+[2, 4, 3, 1] D
+
+strategy 1339 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 1, 2, 1] C
+[2, 4, 3, 1] D
+
+strategy 1340 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 2, 2, 1] C
+[2, 4, 3, 1] D
+
+strategy 1341 
+ddL 
+[2, 2, 2, 0] Strategy
+[1, 3, 2, 1] C
+[2, 4, 3, 1] D
+
+strategy 1342 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[2, 4, 3, 1] D
+
+strategy 1343 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[2, 4, 3, 1] D
+
+strategy 1344 
+ddL 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[2, 4, 3, 1] D
+
+strategy 1345 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[2, 4, 3, 1] D
+
+strategy 1346 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 1, 3, 1] C
+[2, 4, 3, 1] D
+
+strategy 1347 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 2, 3, 1] C
+[2, 4, 3, 1] D
+
+strategy 1348 
+ddL 
+[2, 2, 2, 0] Strategy
+[1, 3, 3, 1] C
+[2, 4, 3, 1] D
+
+strategy 1349 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 3, 1] C
+[2, 4, 3, 1] D
+
+strategy 1350 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 3, 3, 1] C
+[2, 4, 3, 1] D
+
+strategy 1351 
+ddL 
+[2, 2, 2, 0] Strategy
+[4, 3, 3, 1] C
+[2, 4, 3, 1] D
+
+strategy 1352 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 4, 3, 1] C
+[2, 4, 3, 1] D
+
+strategy 1353 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 1, 4, 1] C
+[2, 4, 3, 1] D
+
+strategy 1354 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 2, 4, 1] C
+[2, 4, 3, 1] D
+
+strategy 1355 
+ddL 
+[2, 2, 2, 0] Strategy
+[1, 3, 4, 1] C
+[2, 4, 3, 1] D
+
+strategy 1356 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[2, 4, 3, 1] D
+
+strategy 1357 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 3, 4, 1] C
+[2, 4, 3, 1] D
+
+strategy 1358 
+ddL 
+[2, 2, 2, 0] Strategy
+[4, 3, 4, 1] C
+[2, 4, 3, 1] D
+
+strategy 1359 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 4, 4, 1] C
+[2, 4, 3, 1] D
+
+strategy 1360 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 2, 1, 1] C
+[2, 4, 4, 1] D
+
+strategy 1361 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 2, 1, 1] C
+[3, 4, 4, 1] D
+
+strategy 1362 
+ddL 
+[2, 2, 2, 0] Strategy
+[1, 3, 1, 1] C
+[2, 4, 4, 1] D
+
+strategy 1363 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 1, 1] C
+[2, 4, 4, 1] D
+
+strategy 1364 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 3, 1, 1] C
+[2, 4, 4, 1] D
+
+strategy 1365 
+ddL 
+[2, 2, 2, 0] Strategy
+[4, 3, 1, 1] C
+[2, 4, 4, 1] D
+
+strategy 1366 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 1, 1] C
+[3, 4, 4, 1] D
+
+strategy 1367 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 4, 1, 1] C
+[2, 4, 4, 1] D
+
+strategy 1368 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 4, 1, 1] C
+[3, 4, 4, 1] D
+
+strategy 1369 
+ddL 
+[2, 2, 2, 0] Strategy
+[1, 3, 2, 1] C
+[3, 1, 4, 1] D
+
+strategy 1370 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[3, 1, 4, 1] D
+
+strategy 1371 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[3, 1, 4, 1] D
+
+strategy 1372 
+ddL 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[3, 1, 4, 1] D
+
+strategy 1373 
+ddL 
+[2, 2, 2, 0] Strategy
+[1, 3, 2, 1] C
+[3, 2, 4, 1] D
+
+strategy 1374 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[3, 2, 4, 1] D
+
+strategy 1375 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[3, 2, 4, 1] D
+
+strategy 1376 
+ddL 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[3, 2, 4, 1] D
+
+strategy 1377 
+ddL 
+[2, 2, 2, 0] Strategy
+[1, 3, 2, 1] C
+[3, 3, 4, 1] D
+
+strategy 1378 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[3, 3, 4, 1] D
+
+strategy 1379 
+ddL 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[3, 3, 4, 1] D
+
+strategy 1380 
+ddL 
+[2, 2, 2, 0] Strategy
+[1, 3, 2, 1] C
+[2, 4, 4, 1] D
+
+strategy 1381 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[2, 4, 4, 1] D
+
+strategy 1382 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[2, 4, 4, 1] D
+
+strategy 1383 
+ddL 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[2, 4, 4, 1] D
+
+strategy 1384 
+ddL 
+[2, 2, 2, 0] Strategy
+[1, 3, 2, 1] C
+[3, 4, 4, 1] D
+
+strategy 1385 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[3, 4, 4, 1] D
+
+strategy 1386 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[3, 4, 4, 1] D
+
+strategy 1387 
+ddL 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[3, 4, 4, 1] D
+
+strategy 1388 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[2, 4, 4, 1] D
+
+strategy 1389 
+ddL 
+[2, 2, 2, 0] Strategy
+[1, 4, 2, 1] C
+[3, 4, 4, 1] D
+
+strategy 1390 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 4, 2, 1] C
+[3, 4, 4, 1] D
+
+strategy 1391 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[3, 4, 4, 1] D
+
+strategy 1392 
+ddL 
+[2, 2, 2, 0] Strategy
+[4, 4, 2, 1] C
+[3, 4, 4, 1] D
+
+strategy 1393 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 2, 3, 1] C
+[3, 1, 4, 1] D
+
+strategy 1394 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 2, 3, 1] C
+[3, 2, 4, 1] D
+
+strategy 1395 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 2, 3, 1] C
+[2, 4, 4, 1] D
+
+strategy 1396 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 2, 3, 1] C
+[3, 4, 4, 1] D
+
+strategy 1397 
+ddL 
+[2, 2, 2, 0] Strategy
+[3, 4, 3, 1] C
+[2, 4, 4, 1] D
+
+strategy 1398 
+ddL 
+[2, 2, 2, 0] Strategy
+[2, 4, 3, 1] C
+[3, 4, 4, 1] D
+
+strategy 1399 
+ddcC 
+[2, 1, 2, 1] Strategy
+[1, 2, 1, 2] C
+[3, 1, 4, 1] D
+
+strategy 1400 
+ddcC 
+[2, 1, 2, 1] Strategy
+[3, 2, 1, 2] C
+[3, 1, 4, 1] D
+
+strategy 1401 
+ddcC 
+[2, 1, 2, 1] Strategy
+[1, 2, 3, 2] C
+[3, 1, 4, 1] D
+
+strategy 1402 
+ddcC 
+[2, 1, 2, 1] Strategy
+[3, 2, 3, 2] C
+[3, 1, 4, 1] D
+
+strategy 1403 
+dddC 
+[2, 2, 2, 1] Strategy
+[1, 1, 1, 4] C
+[3, 4, 2, 1] D
+
+strategy 1404 
+dddC 
+[2, 2, 2, 1] Strategy
+[2, 1, 1, 4] C
+[3, 4, 2, 1] D
+
+strategy 1405 
+dddC 
+[2, 2, 2, 1] Strategy
+[3, 1, 1, 4] C
+[3, 4, 2, 1] D
+
+strategy 1406 
+dddC 
+[2, 2, 2, 1] Strategy
+[1, 2, 1, 4] C
+[3, 4, 2, 1] D
+
+strategy 1407 
+dddC 
+[2, 2, 2, 1] Strategy
+[2, 2, 1, 4] C
+[3, 4, 2, 1] D
+
+strategy 1408 
+dddC 
+[2, 2, 2, 1] Strategy
+[3, 2, 1, 4] C
+[3, 4, 2, 1] D
+
+strategy 1409 
+dddC 
+[2, 2, 2, 1] Strategy
+[1, 3, 1, 4] C
+[3, 4, 2, 1] D
+
+strategy 1410 
+dddC 
+[2, 2, 2, 1] Strategy
+[2, 3, 1, 4] C
+[3, 4, 2, 1] D
+
+strategy 1411 
+dddC 
+[2, 2, 2, 1] Strategy
+[3, 3, 1, 4] C
+[3, 4, 2, 1] D
+
+strategy 1412 
+dddC 
+[2, 2, 2, 1] Strategy
+[1, 4, 1, 4] C
+[3, 4, 2, 1] D
+
+strategy 1413 
+dddC 
+[2, 2, 2, 1] Strategy
+[2, 4, 1, 4] C
+[3, 4, 2, 1] D
+
+strategy 1414 
+dddC 
+[2, 2, 2, 1] Strategy
+[3, 4, 1, 4] C
+[3, 4, 2, 1] D
+
+strategy 1415 
+dddC 
+[2, 2, 2, 1] Strategy
+[1, 1, 2, 4] C
+[3, 4, 2, 1] D
+
+strategy 1416 
+dddC 
+[2, 2, 2, 1] Strategy
+[2, 1, 2, 4] C
+[3, 4, 2, 1] D
+
+strategy 1417 
+dddC 
+[2, 2, 2, 1] Strategy
+[3, 1, 2, 4] C
+[3, 4, 2, 1] D
+
+strategy 1418 
+dddC 
+[2, 2, 2, 1] Strategy
+[1, 2, 2, 4] C
+[3, 4, 2, 1] D
+
+strategy 1419 
+dddC 
+[2, 2, 2, 1] Strategy
+[2, 2, 2, 4] C
+[3, 4, 2, 1] D
+
+strategy 1420 
+dddC 
+[2, 2, 2, 1] Strategy
+[3, 2, 2, 4] C
+[3, 4, 2, 1] D
+
+strategy 1421 
+dddC 
+[2, 2, 2, 1] Strategy
+[1, 3, 2, 4] C
+[3, 4, 2, 1] D
+
+strategy 1422 
+dddC 
+[2, 2, 2, 1] Strategy
+[2, 3, 2, 4] C
+[3, 4, 2, 1] D
+
+strategy 1423 
+dddC 
+[2, 2, 2, 1] Strategy
+[3, 3, 2, 4] C
+[3, 4, 2, 1] D
+
+strategy 1424 
+dddC 
+[2, 2, 2, 1] Strategy
+[1, 4, 2, 4] C
+[3, 4, 2, 1] D
+
+strategy 1425 
+dddC 
+[2, 2, 2, 1] Strategy
+[2, 4, 2, 4] C
+[3, 4, 2, 1] D
+
+strategy 1426 
+dddC 
+[2, 2, 2, 1] Strategy
+[3, 4, 2, 4] C
+[3, 4, 2, 1] D
+
+strategy 1427 
+dddC 
+[2, 2, 2, 1] Strategy
+[1, 1, 3, 4] C
+[3, 4, 2, 1] D
+
+strategy 1428 
+dddC 
+[2, 2, 2, 1] Strategy
+[2, 1, 3, 4] C
+[3, 4, 2, 1] D
+
+strategy 1429 
+dddC 
+[2, 2, 2, 1] Strategy
+[3, 1, 3, 4] C
+[3, 4, 2, 1] D
+
+strategy 1430 
+dddC 
+[2, 2, 2, 1] Strategy
+[1, 2, 3, 4] C
+[3, 4, 2, 1] D
+
+strategy 1431 
+dddC 
+[2, 2, 2, 1] Strategy
+[2, 2, 3, 4] C
+[3, 4, 2, 1] D
+
+strategy 1432 
+dddC 
+[2, 2, 2, 1] Strategy
+[3, 2, 3, 4] C
+[3, 4, 2, 1] D
+
+strategy 1433 
+dddC 
+[2, 2, 2, 1] Strategy
+[1, 3, 3, 4] C
+[3, 4, 2, 1] D
+
+strategy 1434 
+dddC 
+[2, 2, 2, 1] Strategy
+[2, 3, 3, 4] C
+[3, 4, 2, 1] D
+
+strategy 1435 
+dddC 
+[2, 2, 2, 1] Strategy
+[3, 3, 3, 4] C
+[3, 4, 2, 1] D
+
+strategy 1436 
+dddC 
+[2, 2, 2, 1] Strategy
+[1, 4, 3, 4] C
+[3, 4, 2, 1] D
+
+strategy 1437 
+dddC 
+[2, 2, 2, 1] Strategy
+[2, 4, 3, 4] C
+[3, 4, 2, 1] D
+
+strategy 1438 
+dddC 
+[2, 2, 2, 1] Strategy
+[3, 4, 3, 4] C
+[3, 4, 2, 1] D
+
+strategy 1439 
+dddC 
+[2, 2, 2, 1] Strategy
+[1, 1, 4, 4] C
+[3, 4, 2, 1] D
+
+strategy 1440 
+dddC 
+[2, 2, 2, 1] Strategy
+[2, 1, 4, 4] C
+[3, 4, 2, 1] D
+
+strategy 1441 
+dddC 
+[2, 2, 2, 1] Strategy
+[3, 1, 4, 4] C
+[3, 4, 2, 1] D
+
+strategy 1442 
+dddC 
+[2, 2, 2, 1] Strategy
+[1, 2, 4, 4] C
+[3, 4, 2, 1] D
+
+strategy 1443 
+dddC 
+[2, 2, 2, 1] Strategy
+[2, 2, 4, 4] C
+[3, 4, 2, 1] D
+
+strategy 1444 
+dddC 
+[2, 2, 2, 1] Strategy
+[3, 2, 4, 4] C
+[3, 4, 2, 1] D
+
+strategy 1445 
+dddC 
+[2, 2, 2, 1] Strategy
+[1, 3, 4, 4] C
+[3, 4, 2, 1] D
+
+strategy 1446 
+dddC 
+[2, 2, 2, 1] Strategy
+[2, 3, 4, 4] C
+[3, 4, 2, 1] D
+
+strategy 1447 
+dddC 
+[2, 2, 2, 1] Strategy
+[3, 3, 4, 4] C
+[3, 4, 2, 1] D
+
+strategy 1448 
+dddC 
+[2, 2, 2, 1] Strategy
+[1, 4, 4, 4] C
+[3, 4, 2, 1] D
+
+strategy 1449 
+dddC 
+[2, 2, 2, 1] Strategy
+[2, 4, 4, 4] C
+[3, 4, 2, 1] D
+
+strategy 1450 
+dddC 
+[2, 2, 2, 1] Strategy
+[3, 4, 4, 4] C
+[3, 4, 2, 1] D
+
+strategy 1451 
+dddC 
+[2, 2, 2, 1] Strategy
+[1, 3, 2, 4] C
+[2, 3, 4, 1] D
+
+strategy 1452 
+dddC 
+[2, 2, 2, 1] Strategy
+[2, 3, 2, 4] C
+[2, 3, 4, 1] D
+
+strategy 1453 
+dddC 
+[2, 2, 2, 1] Strategy
+[3, 3, 2, 4] C
+[2, 3, 4, 1] D
+
+strategy 1454 
+dddC 
+[2, 2, 2, 1] Strategy
+[1, 2, 3, 4] C
+[2, 3, 4, 1] D
+
+strategy 1455 
+dddC 
+[2, 2, 2, 1] Strategy
+[2, 2, 3, 4] C
+[2, 3, 4, 1] D
+
+strategy 1456 
+dddC 
+[2, 2, 2, 1] Strategy
+[3, 2, 3, 4] C
+[2, 3, 4, 1] D
+
+strategy 1457 
+dddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 1, 1] C
+[3, 3, 4, 2] D
+
+strategy 1458 
+dddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 1, 1] C
+[3, 3, 4, 2] D
+
+strategy 1459 
+dddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 1, 1] C
+[3, 3, 4, 2] D
+
+strategy 1460 
+dddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 2, 1] C
+[3, 3, 4, 2] D
+
+strategy 1461 
+dddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 2, 1] C
+[3, 3, 4, 2] D
+
+strategy 1462 
+dddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 2, 1] C
+[3, 3, 4, 2] D
+
+strategy 1463 
+dddC 
+[2, 2, 1, 2] Strategy
+[1, 2, 3, 1] C
+[4, 3, 4, 2] D
+
+strategy 1464 
+dddC 
+[2, 2, 1, 2] Strategy
+[2, 2, 3, 1] C
+[4, 3, 4, 2] D
+
+strategy 1465 
+dddC 
+[2, 2, 1, 2] Strategy
+[4, 2, 3, 1] C
+[4, 3, 4, 2] D
+
+strategy 1466 
+dddC 
+[2, 2, 1, 2] Strategy
+[1, 3, 3, 1] C
+[4, 3, 4, 2] D
+
+strategy 1467 
+dddC 
+[2, 2, 1, 2] Strategy
+[2, 3, 3, 1] C
+[4, 3, 4, 2] D
+
+strategy 1468 
+dddC 
+[2, 2, 1, 2] Strategy
+[4, 3, 3, 1] C
+[4, 3, 4, 2] D
+
+strategy 1469 
+dddC 
+[2, 2, 1, 2] Strategy
+[1, 4, 3, 1] C
+[4, 3, 4, 2] D
+
+strategy 1470 
+dddC 
+[2, 2, 1, 2] Strategy
+[2, 4, 3, 1] C
+[4, 3, 4, 2] D
+
+strategy 1471 
+dddC 
+[2, 2, 1, 2] Strategy
+[4, 4, 3, 1] C
+[4, 3, 4, 2] D
+
+strategy 1472 
+dddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 3, 1] C
+[3, 3, 4, 2] D
+
+strategy 1473 
+dddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 3, 1] C
+[3, 3, 4, 2] D
+
+strategy 1474 
+dddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 3, 1] C
+[3, 3, 4, 2] D
+
+strategy 1475 
+dddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 4, 1] C
+[3, 3, 4, 2] D
+
+strategy 1476 
+dddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 4, 1] C
+[3, 3, 4, 2] D
+
+strategy 1477 
+dddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 4, 1] C
+[3, 3, 4, 2] D
+
+strategy 1478 
+dddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 2, 2] C
+[3, 3, 4, 2] D
+
+strategy 1479 
+dddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 2, 2] C
+[3, 3, 4, 2] D
+
+strategy 1480 
+dddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 2, 2] C
+[3, 3, 4, 2] D
+
+strategy 1481 
+dddC 
+[2, 2, 1, 2] Strategy
+[1, 2, 3, 2] C
+[4, 3, 4, 2] D
+
+strategy 1482 
+dddC 
+[2, 2, 1, 2] Strategy
+[2, 2, 3, 2] C
+[4, 3, 4, 2] D
+
+strategy 1483 
+dddC 
+[2, 2, 1, 2] Strategy
+[4, 2, 3, 2] C
+[4, 3, 4, 2] D
+
+strategy 1484 
+dddC 
+[2, 2, 1, 2] Strategy
+[1, 3, 3, 2] C
+[4, 3, 4, 2] D
+
+strategy 1485 
+dddC 
+[2, 2, 1, 2] Strategy
+[2, 3, 3, 2] C
+[4, 3, 4, 2] D
+
+strategy 1486 
+dddC 
+[2, 2, 1, 2] Strategy
+[4, 3, 3, 2] C
+[4, 3, 4, 2] D
+
+strategy 1487 
+dddC 
+[2, 2, 1, 2] Strategy
+[1, 4, 3, 2] C
+[4, 3, 4, 2] D
+
+strategy 1488 
+dddC 
+[2, 2, 1, 2] Strategy
+[2, 4, 3, 2] C
+[4, 3, 4, 2] D
+
+strategy 1489 
+dddC 
+[2, 2, 1, 2] Strategy
+[4, 4, 3, 2] C
+[4, 3, 4, 2] D
+
+strategy 1490 
+dddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 3, 2] C
+[3, 3, 4, 2] D
+
+strategy 1491 
+dddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 3, 2] C
+[3, 3, 4, 2] D
+
+strategy 1492 
+dddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 3, 2] C
+[3, 3, 4, 2] D
+
+strategy 1493 
+dddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 2, 3] C
+[3, 3, 4, 2] D
+
+strategy 1494 
+dddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 2, 3] C
+[3, 3, 4, 2] D
+
+strategy 1495 
+dddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 2, 3] C
+[3, 3, 4, 2] D
+
+strategy 1496 
+dddC 
+[2, 2, 1, 2] Strategy
+[1, 2, 3, 3] C
+[4, 3, 4, 2] D
+
+strategy 1497 
+dddC 
+[2, 2, 1, 2] Strategy
+[2, 2, 3, 3] C
+[4, 3, 4, 2] D
+
+strategy 1498 
+dddC 
+[2, 2, 1, 2] Strategy
+[4, 2, 3, 3] C
+[4, 3, 4, 2] D
+
+strategy 1499 
+dddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 3, 3] C
+[3, 3, 4, 2] D
+
+strategy 1500 
+dddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 3, 3] C
+[3, 3, 4, 2] D
+
+strategy 1501 
+dddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 3, 3] C
+[3, 3, 4, 2] D
+
+strategy 1502 
+dddC 
+[2, 1, 2, 2] Strategy
+[1, 2, 4, 3] C
+[3, 3, 4, 2] D
+
+strategy 1503 
+dddC 
+[2, 1, 2, 2] Strategy
+[3, 2, 4, 3] C
+[3, 3, 4, 2] D
+
+strategy 1504 
+dddC 
+[2, 1, 2, 2] Strategy
+[4, 2, 4, 3] C
+[3, 3, 4, 2] D
+
+strategy 1505 
+dddC 
+[2, 2, 2, 1] Strategy
+[1, 2, 3, 4] C
+[2, 3, 4, 2] D
+
+strategy 1506 
+dddC 
+[2, 2, 2, 1] Strategy
+[2, 2, 3, 4] C
+[2, 3, 4, 2] D
+
+strategy 1507 
+dddC 
+[2, 2, 2, 1] Strategy
+[3, 2, 3, 4] C
+[2, 3, 4, 2] D
+
+strategy 1508 
+dddC 
+[2, 2, 1, 2] Strategy
+[1, 2, 3, 4] C
+[4, 3, 4, 2] D
+
+strategy 1509 
+dddC 
+[2, 2, 1, 2] Strategy
+[2, 2, 3, 4] C
+[4, 3, 4, 2] D
+
+strategy 1510 
+dddC 
+[2, 2, 1, 2] Strategy
+[4, 2, 3, 4] C
+[4, 3, 4, 2] D
+
+strategy 1511 
+dddL 
+[2, 2, 2, 0] Strategy
+[1, 1, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 1512 
+dddL 
+[2, 2, 2, 0] Strategy
+[2, 1, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 1513 
+dddL 
+[2, 2, 2, 0] Strategy
+[3, 1, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 1514 
+dddL 
+[2, 2, 2, 0] Strategy
+[4, 1, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 1515 
+dddL 
+[2, 2, 2, 0] Strategy
+[1, 2, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 1516 
+dddL 
+[2, 2, 2, 0] Strategy
+[2, 2, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 1517 
+dddL 
+[2, 2, 2, 0] Strategy
+[3, 2, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 1518 
+dddL 
+[2, 2, 2, 0] Strategy
+[4, 2, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 1519 
+dddL 
+[2, 2, 2, 0] Strategy
+[1, 3, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 1520 
+dddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 1521 
+dddL 
+[2, 2, 2, 0] Strategy
+[3, 3, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 1522 
+dddL 
+[2, 2, 2, 0] Strategy
+[4, 3, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 1523 
+dddL 
+[2, 2, 2, 0] Strategy
+[1, 4, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 1524 
+dddL 
+[2, 2, 2, 0] Strategy
+[2, 4, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 1525 
+dddL 
+[2, 2, 2, 0] Strategy
+[3, 4, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 1526 
+dddL 
+[2, 2, 2, 0] Strategy
+[4, 4, 1, 1] C
+[3, 4, 2, 1] D
+
+strategy 1527 
+dddL 
+[2, 2, 2, 0] Strategy
+[1, 1, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 1528 
+dddL 
+[2, 2, 2, 0] Strategy
+[2, 1, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 1529 
+dddL 
+[2, 2, 2, 0] Strategy
+[3, 1, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 1530 
+dddL 
+[2, 2, 2, 0] Strategy
+[4, 1, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 1531 
+dddL 
+[2, 2, 2, 0] Strategy
+[1, 2, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 1532 
+dddL 
+[2, 2, 2, 0] Strategy
+[2, 2, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 1533 
+dddL 
+[2, 2, 2, 0] Strategy
+[3, 2, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 1534 
+dddL 
+[2, 2, 2, 0] Strategy
+[4, 2, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 1535 
+dddL 
+[2, 2, 2, 0] Strategy
+[1, 3, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 1536 
+dddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 1537 
+dddL 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 1538 
+dddL 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 1539 
+dddL 
+[2, 2, 2, 0] Strategy
+[1, 4, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 1540 
+dddL 
+[2, 2, 2, 0] Strategy
+[2, 4, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 1541 
+dddL 
+[2, 2, 2, 0] Strategy
+[3, 4, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 1542 
+dddL 
+[2, 2, 2, 0] Strategy
+[4, 4, 2, 1] C
+[3, 4, 2, 1] D
+
+strategy 1543 
+dddL 
+[2, 2, 2, 0] Strategy
+[1, 1, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 1544 
+dddL 
+[2, 2, 2, 0] Strategy
+[2, 1, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 1545 
+dddL 
+[2, 2, 2, 0] Strategy
+[3, 1, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 1546 
+dddL 
+[2, 2, 2, 0] Strategy
+[4, 1, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 1547 
+dddL 
+[2, 2, 2, 0] Strategy
+[1, 2, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 1548 
+dddL 
+[2, 2, 2, 0] Strategy
+[2, 2, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 1549 
+dddL 
+[2, 2, 2, 0] Strategy
+[3, 2, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 1550 
+dddL 
+[2, 2, 2, 0] Strategy
+[4, 2, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 1551 
+dddL 
+[2, 2, 2, 0] Strategy
+[1, 3, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 1552 
+dddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 1553 
+dddL 
+[2, 2, 2, 0] Strategy
+[3, 3, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 1554 
+dddL 
+[2, 2, 2, 0] Strategy
+[4, 3, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 1555 
+dddL 
+[2, 2, 2, 0] Strategy
+[1, 4, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 1556 
+dddL 
+[2, 2, 2, 0] Strategy
+[2, 4, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 1557 
+dddL 
+[2, 2, 2, 0] Strategy
+[3, 4, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 1558 
+dddL 
+[2, 2, 2, 0] Strategy
+[4, 4, 3, 1] C
+[3, 4, 2, 1] D
+
+strategy 1559 
+dddL 
+[2, 2, 2, 0] Strategy
+[1, 1, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 1560 
+dddL 
+[2, 2, 2, 0] Strategy
+[2, 1, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 1561 
+dddL 
+[2, 2, 2, 0] Strategy
+[3, 1, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 1562 
+dddL 
+[2, 2, 2, 0] Strategy
+[4, 1, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 1563 
+dddL 
+[2, 2, 2, 0] Strategy
+[1, 2, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 1564 
+dddL 
+[2, 2, 2, 0] Strategy
+[2, 2, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 1565 
+dddL 
+[2, 2, 2, 0] Strategy
+[3, 2, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 1566 
+dddL 
+[2, 2, 2, 0] Strategy
+[4, 2, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 1567 
+dddL 
+[2, 2, 2, 0] Strategy
+[1, 3, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 1568 
+dddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 1569 
+dddL 
+[2, 2, 2, 0] Strategy
+[3, 3, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 1570 
+dddL 
+[2, 2, 2, 0] Strategy
+[4, 3, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 1571 
+dddL 
+[2, 2, 2, 0] Strategy
+[1, 4, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 1572 
+dddL 
+[2, 2, 2, 0] Strategy
+[2, 4, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 1573 
+dddL 
+[2, 2, 2, 0] Strategy
+[3, 4, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 1574 
+dddL 
+[2, 2, 2, 0] Strategy
+[4, 4, 4, 1] C
+[3, 4, 2, 1] D
+
+strategy 1575 
+dddL 
+[2, 2, 2, 0] Strategy
+[1, 3, 2, 1] C
+[2, 3, 4, 1] D
+
+strategy 1576 
+dddL 
+[2, 2, 2, 0] Strategy
+[2, 3, 2, 1] C
+[2, 3, 4, 1] D
+
+strategy 1577 
+dddL 
+[2, 2, 2, 0] Strategy
+[3, 3, 2, 1] C
+[2, 3, 4, 1] D
+
+strategy 1578 
+dddL 
+[2, 2, 2, 0] Strategy
+[4, 3, 2, 1] C
+[2, 3, 4, 1] D
+
+strategy 1579 
+dddL 
+[2, 2, 2, 0] Strategy
+[1, 2, 3, 1] C
+[2, 3, 4, 1] D
+
+strategy 1580 
+dddL 
+[2, 2, 2, 0] Strategy
+[2, 2, 3, 1] C
+[2, 3, 4, 1] D
+
+strategy 1581 
+dddL 
+[2, 2, 2, 0] Strategy
+[3, 2, 3, 1] C
+[2, 3, 4, 1] D
+
+strategy 1582 
+dddL 
+[2, 2, 2, 0] Strategy
+[4, 2, 3, 1] C
+[2, 3, 4, 1] D
+

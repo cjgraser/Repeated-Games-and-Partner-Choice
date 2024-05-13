@@ -1,0 +1,2 @@
+The "build_Markov_matrix.jl" script generates a Markov matrix (and numerically calculates its stationary distribution) for an arbitrary set of strategies.
+The "all_equilibria.jl" module identifies all equilibrium strategies in an arbitrary set of strategies (using the best responder algorithm)

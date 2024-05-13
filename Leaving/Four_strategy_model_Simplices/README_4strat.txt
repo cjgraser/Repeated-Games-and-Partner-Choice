@@ -1,0 +1,2 @@
+The "four_strat.jl" script generates a Markov Matrix (and computes a stationary distribution) for a Moran Process with four strategies. 
+Unlike the explicit numeric approaches in other folder, here mutation rates are NOT assumed to be negligibly low, so that non-negligible time is spent on the interior of the corresponding 3-simplex.
