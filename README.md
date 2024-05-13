@@ -1,5 +1,6 @@
 # Repeated-Games-and-Partner-Choice
 
+This repository contains Julia scripts we used for the simulations in (*insert line with link to paper*) in the "simulation_package" directory. Moreover, it contains some additional functionality to numerically compute stationary distributions of the process (1) for arbitrary finite strategy sets in the limit of rare mutations ("Leaving/Explicit_Markov_Chain"), and (2) for the four-strategy model discussed in the paper for arbitrary mutation rates ("Leaving/Four_strategy_model_Simplices"). 
 FSA are represented as matrices. 
 The first row represents the output (0,1,2) --> (Leave, Cooperate, Defect)
 With errors, rows 2 to 4 represent the out-arrows for (CC CD DC DD). Without errors only two additional rows are needed, so rows 2 to 3 correspond to the out-arrows for (,C and ,D). 
