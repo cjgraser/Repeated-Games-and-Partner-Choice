@@ -1,6 +1,14 @@
-imax_n = 10;istore_interval = 1000;inperiods = 100000000;iN = 100; imutation_rate = 0.05;
+imax_n = 10;
+istore_interval = 1000;
+inperiods = 100000000;
+iN = 100;
+imutation_rate = 0.05;
 inperiods = 10000
-a = 0; c = 1; gamma = 0.9502; eps = 0; w =0.9;
+a = 0;
+c = 1;
+gamma = 0.9502;
+eps = 0;
+w =0.9;
 ntime = convert(Int128,inperiods/istore_interval);
 #picture of: beta, and of b
 bv = collect(1:(1/2):6);
